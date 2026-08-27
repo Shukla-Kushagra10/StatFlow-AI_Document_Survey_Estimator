@@ -39,13 +39,13 @@ build/
 # Generated and local data
 # Keep directory placeholders, but do not commit runtime uploads or processed output.
 data/uploads/*
-!data/uploads/.gitkeep
-!data/uploads/18augpandas.csv
-!data/uploads/synthetic_survey_sample.csv
+data/uploads/.gitkeep
+data/uploads/18augpandas.csv
+data/uploads/synthetic_survey_sample.csv
 data/processed/*
-!data/processed/.gitkeep
+data/processed/.gitkeep
 reports/*
-!reports/.gitkeep
+reports/.gitkeep
 
 # Editors and operating systems
 .vscode/*
