@@ -1,0 +1,1004 @@
+respondent_id,age,gender,state,education,employment_status,income,household_size,survey_weight,satisfaction_score,survey_date
+RSP-2025-00001,16,Female,Gujarat,Primary,Retired,39819.45,5,34.9954,8.0,2024-05-18
+RSP-2025-00002,82,Female,Maharashtra,Secondary,Student,0.0,5,11.1645,10.0,2024-06-13
+RSP-2025-00003,75,Female,West Bengal,Higher Secondary,Self-Employed,40746.66,6,44.9597,5.0,2024-05-04
+RSP-2025-00004,35,Male,West Bengal,Postgraduate,Self-Employed,53518.19,3,96.2511,4.0,2024-01-11
+RSP-2025-00005,38,Female,Karnataka,Postgraduate,Self-Employed,34164.86,3,101.4316,5.0,2024-01-27
+RSP-2025-00006,17,Female,Uttar Pradesh,Graduate,Employed,29621.57,3,33.6825,10.0,2024-04-03
+RSP-2025-00007,36,Female,Uttar Pradesh,,Retired,15173.5,4,120.3105,6.0,2024-03-23
+RSP-2025-00008,67,Female,Uttar Pradesh,Primary,Student,0.0,5,68.0251,7.0,2024-02-03
+RSP-2025-00009,16,Female,Karnataka,Postgraduate,Student,0.0,4,115.4941,9.0,2024-02-07
+RSP-2025-00010,44,Male,West Bengal,Graduate,Student,0.0,5,91.4246,1.0,2024-03-27
+RSP-2025-00011,52,Female,Maharashtra,None,Retired,23045.56,5,93.2186,4.0,2024-03-05
+RSP-2025-00012,16,Male,Karnataka,Higher Secondary,Unemployed,0.0,7,20.2375,9.0,2024-05-10
+RSP-2025-00013,78,Male,Karnataka,Higher Secondary,Employed,14943.04,2,35.689,5.0,2024-06-04
+RSP-2025-00014,74,Female,Maharashtra,Postgraduate,Self-Employed,57658.44,2,11.5093,8.0,2024-05-21
+RSP-2025-00015,35,Male,Uttar Pradesh,Secondary,Self-Employed,41461.52,2,92.4966,1.0,2024-02-21
+RSP-2025-00016,47,Female,Gujarat,Higher Secondary,Self-Employed,95015.12,2,49.9382,4.0,2024-01-30
+RSP-2025-00017,72,Male,Maharashtra,None,Unemployed,0.0,6,100.5717,9.0,2024-04-22
+RSP-2025-00018,36,Female,West Bengal,Postgraduate,Employed,21042.4,3,49.3082,1.0,2024-05-22
+RSP-2025-00019,63,Male,Tamil Nadu,Graduate,Employed,31270.79,7,104.3137,1.0,2024-06-14
+RSP-2025-00020,73,Female,Tamil Nadu,None,Retired,,5,25.465,4.0,2024-05-21
+RSP-2025-00021,56,Female,Bihar,Postgraduate,Unemployed,0.0,6,30.3512,3.0,2024-01-08
+RSP-2025-00022,74,Male,Bihar,None,Unemployed,,7,49.5304,7.0,2024-03-12
+RSP-2025-00023,29,Female,Karnataka,Higher Secondary,Employed,47710.89,6,57.2718,3.0,2024-05-26
+RSP-2025-00024,76,Other,Tamil Nadu,Graduate,Employed,42990.65,4,50.4265,1.0,2024-02-01
+RSP-2025-00025,76,Male,Gujarat,Postgraduate,Student,1483.021,4,97.9376,10.0,2024-04-04
+RSP-2025-00026,61,Male,Uttar Pradesh,Primary,Self-Employed,64928.23,5,21.6009,,2024-06-05
+RSP-2025-00027,76,Male,West Bengal,Graduate,Self-Employed,57562.65,8,50.7143,10.0,2024-02-10
+RSP-2025-00028,65,Female,Bihar,Primary,Unemployed,0.0,2,106.364,4.0,2024-03-15
+RSP-2025-00029,69,Female,Gujarat,None,Self-Employed,28331.76,3,18.1483,1.0,2024-02-14
+RSP-2025-00030,78,Female,West Bengal,Secondary,Employed,,6,118.3983,1.0,2024-01-13
+RSP-2025-00031,17,Male,West Bengal,Graduate,Self-Employed,15365.7,1,123.4333,8.0,2024-06-03
+RSP-2025-00032,65,Male,Uttar Pradesh,None,Employed,27433.51,5,20.6411,7.0,2024-01-19
+RSP-2025-00033,21,Female,Karnataka,Primary,Employed,6640.55,5,43.8507,8.0,2024-06-02
+RSP-2025-00034,35,Male,Tamil Nadu,Higher Secondary,Self-Employed,47557.57,8,53.1399,4.0,2024-02-22
+RSP-2025-00035,53,Male,Uttar Pradesh,Higher Secondary,Retired,9750.07,4,99.3968,6.0,2024-06-27
+RSP-2025-00036,32,Female,Gujarat,Secondary,Employed,2480619.4448998477,1,78.7336,3.0,2024-06-13
+RSP-2025-00037,18,Female,Karnataka,Graduate,Student,,4,84.2799,8.0,2024-05-16
+RSP-2025-00038,74,Female,Gujarat,Graduate,Employed,23445.09,7,97.2349,4.0,2024-06-28
+RSP-2025-00039,28,Female,Karnataka,Graduate,Employed,17889.57,1,24.0086,3.0,2024-01-03
+RSP-2025-00040,23,Female,Bihar,None,Employed,22309.65,1,105.9025,4.0,2024-04-05
+RSP-2025-00041,67,Female,Gujarat,Secondary,Employed,67646.13,2,91.2935,6.0,2024-05-15
+RSP-2025-00042,16,Male,Uttar Pradesh,Graduate,Unemployed,0.0,6,76.6056,7.0,2024-01-14
+RSP-2025-00043,74,Male,Karnataka,None,Employed,61699.28,4,112.3747,7.0,2024-04-29
+RSP-2025-00044,58,Male,Karnataka,Higher Secondary,Unemployed,0.0,5,90.6851,4.0,2024-05-10
+RSP-2025-00045,22,Male,West Bengal,Primary,Retired,12276.42,8,33.5946,8.0,2024-05-31
+RSP-2025-00046,61,Female,West Bengal,None,Employed,13373.72,5,59.7058,7.0,2024-01-13
+RSP-2025-00047,49,Male,Maharashtra,Higher Secondary,Self-Employed,79989.88,6,67.0679,2.0,2024-06-19
+RSP-2025-00048,50,Male,Gujarat,Higher Secondary,Employed,14551.08,3,16.8224,8.0,2024-06-05
+RSP-2025-00049,64,Male,West Bengal,Primary,Self-Employed,12712.26,3,119.806,9.0,2024-03-12
+RSP-2025-00050,18,Male,Maharashtra,Higher Secondary,Employed,56345.32,4,25.2221,5.0,2024-06-27
+RSP-2025-00051,16,Female,Bihar,Secondary,Employed,33525.42,4,90.3593,4.0,2024-06-18
+RSP-2025-00052,20,Male,Bihar,Primary,Employed,14622.96,5,68.4635,4.0,2024-06-07
+RSP-2025-00053,68,Female,West Bengal,Higher Secondary,Employed,30970.99,4,13.4349,,2024-06-02
+RSP-2025-00054,18,Male,Gujarat,Postgraduate,Employed,13811.55,5,116.3836,,2024-05-25
+RSP-2025-00055,68,Female,Karnataka,None,Self-Employed,55024.5,3,108.0353,4.0,2024-03-22
+RSP-2025-00056,77,Female,Tamil Nadu,Higher Secondary,Student,0.0,3,70.5275,7.0,2024-02-26
+RSP-2025-00057,32,Male,Gujarat,Secondary,Student,0.0,1,36.7139,7.0,2024-01-07
+RSP-2025-00058,58,Female,Uttar Pradesh,Graduate,Self-Employed,34032.79,3,24.4258,5.0,2024-04-21
+RSP-2025-00059,48,Male,Bihar,Higher Secondary,Employed,84522.44,3,52.1084,5.0,2024-02-17
+RSP-2025-00060,76,Male,West Bengal,Graduate,Employed,26897.7,6,39.7465,10.0,2024-03-20
+RSP-2025-00061,28,Female,West Bengal,Postgraduate,Employed,12478.74,8,68.5161,8.0,2024-04-28
+RSP-2025-00062,62,Male,Karnataka,Higher Secondary,Employed,36031.83,4,121.1539,7.0,2024-04-29
+RSP-2025-00063,29,Male,Uttar Pradesh,Primary,Unemployed,0.0,4,76.3322,7.0,2024-02-29
+RSP-2025-00064,76,Female,Karnataka,Graduate,Unemployed,0.0,2,112.3971,6.0,2024-02-02
+RSP-2025-00065,54,Male,Uttar Pradesh,Postgraduate,Employed,21269.92,1,85.0256,7.0,2024-04-24
+RSP-2025-00066,67,Female,Tamil Nadu,Primary,Employed,35266.54,4,64.9157,7.0,2024-05-07
+RSP-2025-00067,38,Male,Bihar,Primary,Student,0.0,3,108.3526,10.0,2024-01-03
+RSP-2025-00068,40,Female,West Bengal,Primary,Self-Employed,,5,64.4716,2.0,2024-01-04
+RSP-2025-00069,74,Female,West Bengal,Primary,Employed,55782.06,3,109.9579,10.0,2024-04-09
+RSP-2025-00070,55,Female,Tamil Nadu,Higher Secondary,Retired,121543.37,4,43.8855,2.0,2024-01-04
+RSP-2025-00071,43,Female,Maharashtra,None,Retired,30561.17,6,25.2491,10.0,2024-02-11
+RSP-2025-00072,29,Male,Bihar,Higher Secondary,Employed,14948.34,3,108.4335,7.0,2024-01-09
+RSP-2025-00073,59,Female,Karnataka,Higher Secondary,Employed,9829.82,3,77.759,10.0,2024-02-20
+RSP-2025-00074,79,Male,Tamil Nadu,Postgraduate,Unemployed,0.0,4,112.3011,7.0,2024-05-24
+RSP-2025-00075,23,Male,Karnataka,Postgraduate,Retired,55133.91,5,117.8812,7.0,2024-05-24
+RSP-2025-00076,15,Male,Gujarat,None,Student,0.0,5,16.6405,5.0,2024-04-06
+RSP-2025-00077,22,Female,West Bengal,Postgraduate,Employed,26861.18,4,67.861,1.0,2024-01-20
+RSP-2025-00078,77,Male,Karnataka,Secondary,Employed,18342.45,9,53.4334,2.0,2024-05-21
+RSP-2025-00079,25,Female,Uttar Pradesh,None,Unemployed,0.0,6,82.1608,9.0,2024-01-22
+RSP-2025-00080,22,Female,Karnataka,Postgraduate,Unemployed,0.0,4,101.3662,8.0,2024-06-28
+RSP-2025-00081,49,Female,Gujarat,None,Employed,48725.2,3,42.6276,8.0,2024-01-27
+RSP-2025-00082,49,Male,Bihar,Higher Secondary,Student,0.0,2,74.2534,10.0,2024-02-12
+RSP-2025-00083,47,Female,West Bengal,Higher Secondary,Self-Employed,75613.89,5,91.6494,1.0,2024-05-10
+RSP-2025-00084,19,Male,Tamil Nadu,None,Student,0.0,3,25.8924,6.0,2024-04-03
+RSP-2025-00085,55,Male,Gujarat,Secondary,Student,0.0,3,103.7107,9.0,2024-01-08
+RSP-2025-00086,42,Male,West Bengal,Secondary,Self-Employed,11244.3,4,79.8995,8.0,2024-03-26
+RSP-2025-00087,21,Male,Karnataka,None,Employed,11072.44,3,119.222,3.0,2024-03-29
+RSP-2025-00088,26,Female,Bihar,Postgraduate,Self-Employed,24420.3,5,49.3761,4.0,2024-05-17
+RSP-2025-00089,48,Female,Maharashtra,Graduate,Employed,37302.29,2,22.8827,3.0,2024-04-22
+RSP-2025-00090,47,Male,Bihar,Secondary,Self-Employed,,6,68.4944,6.0,2024-06-05
+RSP-2025-00091,62,Male,Maharashtra,Primary,Employed,42571.97,5,20.3253,9.0,2024-06-16
+RSP-2025-00092,37,Male,Uttar Pradesh,Higher Secondary,Self-Employed,22977.19,1,121.5108,8.0,2024-01-21
+RSP-2025-00093,76,Male,Bihar,None,Employed,13806.02,5,14.9294,,2024-05-31
+RSP-2025-00094,51,Female,West Bengal,Primary,Employed,59844.23,4,96.7762,4.0,2024-06-02
+RSP-2025-00095,58,Male,Maharashtra,None,Employed,14370.63,1,70.6242,2.0,2024-01-09
+RSP-2025-00096,49,Male,Tamil Nadu,Higher Secondary,Employed,77536.54,6,52.7071,8.0,2024-05-27
+RSP-2025-00097,79,Male,West Bengal,Higher Secondary,Self-Employed,22362.71,7,18.0389,8.0,2024-02-05
+RSP-2025-00098,61,Female,Tamil Nadu,Secondary,Self-Employed,75650.43,2,81.7381,6.0,2024-02-05
+RSP-2025-00099,17,Female,Bihar,Secondary,Unemployed,4182.733,1,77.5077,8.0,2024-03-13
+RSP-2025-00100,15,Female,Tamil Nadu,Primary,Employed,24611.1,4,42.6611,9.0,2024-05-29
+RSP-2025-00101,19,Female,Maharashtra,None,Employed,19194.76,3,114.7204,1.0,2024-01-01
+RSP-2025-00102,28,Female,West Bengal,Higher Secondary,Employed,21556.01,3,45.3206,9.0,2024-03-09
+RSP-2025-00103,41,Male,Karnataka,Primary,Employed,35539.71,1,61.9936,2.0,2024-02-06
+RSP-2025-00104,23,Female,Gujarat,Graduate,Student,2828.6830000000004,3,72.7608,1.0,2024-03-12
+RSP-2025-00105,29,Female,Maharashtra,Primary,Employed,18288.41,3,21.9766,8.0,2024-04-16
+RSP-2025-00106,56,Female,Maharashtra,Postgraduate,Employed,24157.24,3,117.2325,8.0,2024-04-05
+RSP-2025-00107,65,Female,Karnataka,Primary,Employed,28312.96,3,53.3844,4.0,2024-05-20
+RSP-2025-00108,77,Female,West Bengal,Postgraduate,Employed,6743.42,2,19.7492,8.0,2024-03-24
+RSP-2025-00109,66,Female,West Bengal,Postgraduate,Unemployed,0.0,6,54.8448,7.0,2024-02-12
+RSP-2025-00110,18,Other,Bihar,Postgraduate,Self-Employed,14231.05,2,79.2232,2.0,2024-02-06
+RSP-2025-00111,37,Female,Tamil Nadu,Graduate,Employed,12712.41,5,69.3132,5.0,2024-01-25
+RSP-2025-00112,29,Female,Bihar,Primary,Employed,8984.23,3,90.0251,10.0,2024-05-28
+RSP-2025-00113,57,Female,Karnataka,Primary,Employed,8383.07,3,16.8529,4.0,2024-06-17
+RSP-2025-00114,43,Male,Bihar,Graduate,Employed,11147.37,4,43.0799,3.0,2024-03-13
+RSP-2025-00115,50,Female,Karnataka,Higher Secondary,Employed,16968.88,4,104.3019,1.0,2024-06-18
+RSP-2025-00116,27,Male,West Bengal,Secondary,Retired,,2,19.6478,5.0,2024-02-11
+RSP-2025-00117,46,Female,Tamil Nadu,Primary,Self-Employed,19114.04,7,108.4531,10.0,2024-01-02
+RSP-2025-00118,73,Other,Bihar,Secondary,Unemployed,0.0,7,21.0221,8.0,2024-05-15
+RSP-2025-00119,42,Female,Maharashtra,None,Employed,34902.47,6,106.045,9.0,2024-04-05
+RSP-2025-00120,80,Male,Uttar Pradesh,None,Employed,29295.59,3,51.8103,7.0,2024-03-01
+RSP-2025-00121,56,Male,Gujarat,Graduate,Unemployed,0.0,6,80.5979,1.0,2024-01-14
+RSP-2025-00122,59,Male,Maharashtra,None,Self-Employed,12370.37,6,28.0056,1.0,2024-04-22
+RSP-2025-00123,76,Female,West Bengal,None,Self-Employed,69085.69,4,18.0763,1.0,2024-03-17
+RSP-2025-00124,71,Male,Gujarat,Higher Secondary,Employed,87088.3,6,35.2249,2.0,2024-01-21
+RSP-2025-00125,20,Male,Uttar Pradesh,Higher Secondary,Unemployed,0.0,7,25.1393,1.0,2024-05-31
+RSP-2025-00126,42,Male,Uttar Pradesh,Higher Secondary,Employed,13827.04,5,46.2705,4.0,2024-06-26
+RSP-2025-00127,42,Female,Tamil Nadu,None,Student,,5,69.3969,10.0,2024-06-21
+RSP-2025-00128,58,Female,Gujarat,Graduate,Self-Employed,14372.19,6,77.913,9.0,2024-03-04
+RSP-2025-00129,44,Male,Tamil Nadu,Postgraduate,Unemployed,0.0,6,100.9399,4.0,2024-06-02
+RSP-2025-00130,76,Male,Maharashtra,,Employed,16757.87,5,85.6395,4.0,2024-06-08
+RSP-2025-00131,76,Female,Karnataka,Secondary,Self-Employed,109895.64,4,80.2028,7.0,2024-02-26
+RSP-2025-00132,15,Female,Karnataka,Postgraduate,Employed,58329.11,4,57.649,,2024-04-28
+RSP-2025-00133,41,Female,Karnataka,Postgraduate,Employed,30889.55,2,64.7511,7.0,2024-06-09
+RSP-2025-00134,76,Male,Gujarat,Higher Secondary,Employed,52446.09,4,57.9626,1.0,2024-02-21
+RSP-2025-00135,17,Female,Karnataka,Higher Secondary,Self-Employed,55206.46,4,106.928,1.0,2024-04-04
+RSP-2025-00136,84,Male,Maharashtra,None,Employed,18646.88,3,36.8351,4.0,2024-05-25
+RSP-2025-00137,41,Female,Tamil Nadu,Secondary,Employed,15826.78,3,11.155,4.0,2024-06-11
+RSP-2025-00138,23,Female,Gujarat,Primary,Student,0.0,2,85.0761,1.0,2024-05-19
+RSP-2025-00139,76,Male,Tamil Nadu,Secondary,Employed,47101.66,6,33.6819,6.0,2024-06-27
+RSP-2025-00140,51,Male,Gujarat,Secondary,Unemployed,0.0,4,112.4182,10.0,2024-03-29
+RSP-2025-00141,65,Female,Tamil Nadu,Graduate,Employed,9652.31,5,108.8608,2.0,2024-01-10
+RSP-2025-00142,58,Female,Uttar Pradesh,None,Employed,15965.16,3,19.2853,5.0,2024-02-21
+RSP-2025-00143,38,Female,Tamil Nadu,Graduate,Self-Employed,25640.22,6,22.6815,8.0,2024-02-03
+RSP-2025-00144,73,Female,Karnataka,Secondary,Employed,25612.03,5,67.1971,3.0,2024-04-24
+RSP-2025-00145,46,Female,Uttar Pradesh,Secondary,Unemployed,0.0,4,80.256,9.0,2024-06-15
+RSP-2025-00146,66,Female,Tamil Nadu,Secondary,Unemployed,0.0,6,41.977,7.0,2024-05-15
+RSP-2025-00147,76,Male,Gujarat,,Self-Employed,37370.35,3,92.5733,9.0,2024-05-04
+RSP-2025-00148,72,Female,Gujarat,Graduate,Self-Employed,,5,78.6179,1.0,2024-06-05
+RSP-2025-00149,66,Male,Gujarat,Secondary,Employed,117764.52,4,47.6924,5.0,2024-05-29
+RSP-2025-00150,26,Male,West Bengal,Higher Secondary,Employed,,6,13.405,3.0,2024-02-12
+RSP-2025-00151,53,Other,Maharashtra,,Self-Employed,37027.98,4,96.3922,4.0,2024-06-25
+RSP-2025-00152,16,Male,Gujarat,None,Unemployed,0.0,8,35.0893,4.0,2024-01-29
+RSP-2025-00153,17,Male,Uttar Pradesh,Higher Secondary,Student,0.0,1,106.0472,7.0,2024-04-15
+RSP-2025-00154,70,Male,Gujarat,None,Student,0.0,2,58.6232,10.0,2024-04-29
+RSP-2025-00155,73,Female,West Bengal,Postgraduate,Student,0.0,2,76.5754,8.0,2024-03-21
+RSP-2025-00156,16,Male,Karnataka,Postgraduate,Unemployed,0.0,4,110.4526,10.0,2024-01-31
+RSP-2025-00157,16,Male,Uttar Pradesh,,Employed,41912.74,6,109.3848,5.0,2024-06-10
+RSP-2025-00158,68,Male,West Bengal,Primary,Self-Employed,29202.68,2,53.039,10.0,2024-05-07
+RSP-2025-00159,15,Male,Karnataka,Primary,Unemployed,0.0,5,34.4178,7.0,2024-02-07
+RSP-2025-00160,33,Male,Bihar,None,Employed,101768.96,5,99.2542,3.0,2024-04-10
+RSP-2025-00161,16,Male,Bihar,Postgraduate,Student,1734.905,6,60.0877,3.0,2024-05-11
+RSP-2025-00162,67,Female,Uttar Pradesh,Postgraduate,Student,0.0,4,32.4888,3.0,2024-05-09
+RSP-2025-00163,58,Male,Tamil Nadu,Postgraduate,Unemployed,9817.527,4,114.0567,4.0,2024-01-12
+RSP-2025-00164,46,Male,Maharashtra,Higher Secondary,Employed,15664.62,4,33.1829,6.0,2024-02-04
+RSP-2025-00165,84,Male,Maharashtra,Postgraduate,Employed,18815.29,3,13.4549,5.0,2024-04-19
+RSP-2025-00166,46,Male,West Bengal,Higher Secondary,Student,0.0,3,12.8221,8.0,2024-03-12
+RSP-2025-00167,82,Female,Karnataka,Primary,Retired,46466.06,1,81.7551,5.0,2024-05-28
+RSP-2025-00168,69,Female,Maharashtra,Primary,Employed,30793.89,6,86.2618,5.0,2024-04-19
+RSP-2025-00169,70,Male,Karnataka,None,Employed,11611.99,8,46.1143,,2024-03-01
+RSP-2025-00170,31,Male,Karnataka,Primary,Student,0.0,3,47.1413,2.0,2024-06-11
+RSP-2025-00171,52,Male,West Bengal,None,Employed,18128.12,2,49.3721,5.0,2024-02-17
+RSP-2025-00172,38,Female,West Bengal,Secondary,Unemployed,0.0,6,88.3782,7.0,2024-05-22
+RSP-2025-00173,83,Female,West Bengal,Secondary,Retired,35482.62,2,17.1563,2.0,2024-03-11
+RSP-2025-00174,84,Female,Maharashtra,Graduate,Employed,35306.9,6,116.8838,6.0,2024-05-22
+RSP-2025-00175,25,Male,Bihar,None,Self-Employed,8481.07,3,35.9787,7.0,2024-05-13
+RSP-2025-00176,30,Female,West Bengal,Graduate,Employed,53721.13,3,124.9626,5.0,2024-03-08
+RSP-2025-00177,73,Male,Maharashtra,Graduate,Employed,31703.1,1,30.1393,9.0,2024-01-22
+RSP-2025-00178,84,Male,West Bengal,Secondary,Student,0.0,3,98.8421,4.0,2024-02-01
+RSP-2025-00179,17,Male,Gujarat,None,Employed,35908.49,4,36.0807,10.0,2024-05-02
+RSP-2025-00180,34,Male,Karnataka,Secondary,Retired,55042.45,4,19.757,1.0,2024-01-22
+RSP-2025-00181,73,Female,West Bengal,Graduate,Unemployed,3643.388,3,110.6799,8.0,2024-06-03
+RSP-2025-00182,50,Female,Uttar Pradesh,None,Employed,64540.41,2,108.827,8.0,2024-04-19
+RSP-2025-00183,33,Male,Karnataka,Graduate,Employed,37777.27,8,56.7088,7.0,2024-01-15
+RSP-2025-00184,81,Female,Karnataka,Postgraduate,Employed,25244.29,3,90.9244,8.0,2024-05-03
+RSP-2025-00185,33,Other,West Bengal,None,Employed,117839.94,4,74.284,2.0,2024-02-13
+RSP-2025-00186,34,Female,Bihar,None,Employed,47948.08,4,108.1635,3.0,2024-04-24
+RSP-2025-00187,66,Female,Tamil Nadu,Graduate,Employed,39063.11,7,46.5739,9.0,2024-01-09
+RSP-2025-00188,47,Female,Bihar,Postgraduate,Unemployed,0.0,5,70.4605,1.0,2024-02-03
+RSP-2025-00189,54,Other,West Bengal,Higher Secondary,Self-Employed,11644.63,1,66.0751,8.0,2024-03-13
+RSP-2025-00190,53,Female,Karnataka,Secondary,Self-Employed,32541.29,2,51.0222,8.0,2024-05-22
+RSP-2025-00191,15,Male,Uttar Pradesh,Graduate,Self-Employed,29572.16,4,112.5716,7.0,2024-02-14
+RSP-2025-00192,25,Male,Karnataka,None,Employed,18048.54,6,29.493,5.0,2024-03-12
+RSP-2025-00193,71,Female,Bihar,Secondary,Employed,29485.05,4,27.6187,4.0,2024-02-27
+RSP-2025-00194,64,Male,Uttar Pradesh,Secondary,Self-Employed,75554.35,4,76.5561,,2024-04-24
+RSP-2025-00195,37,Female,Maharashtra,Secondary,Unemployed,0.0,6,85.7831,10.0,2024-01-19
+RSP-2025-00196,45,Male,Gujarat,Higher Secondary,Employed,12814.65,6,32.7839,10.0,2024-01-16
+RSP-2025-00197,56,Male,Karnataka,Primary,Student,0.0,3,55.2371,10.0,2024-03-15
+RSP-2025-00198,21,Male,West Bengal,Graduate,Self-Employed,15942.95,2,118.8816,6.0,2024-04-15
+RSP-2025-00199,30,Male,Maharashtra,Primary,Unemployed,0.0,6,38.7377,1.0,2024-05-15
+RSP-2025-00200,74,Female,Gujarat,Primary,Employed,20560.97,2,87.0273,5.0,2024-06-09
+RSP-2025-00201,16,Female,West Bengal,Primary,Self-Employed,19722.8,3,95.2471,4.0,2024-03-14
+RSP-2025-00202,15,Female,Tamil Nadu,Secondary,Unemployed,0.0,4,61.8107,4.0,2024-01-18
+RSP-2025-00203,62,Female,West Bengal,Postgraduate,Self-Employed,24760.98,5,117.8467,,2024-06-11
+RSP-2025-00204,26,Male,Uttar Pradesh,Secondary,Self-Employed,18687.4,1,94.8472,9.0,2024-02-12
+RSP-2025-00205,83,Female,Uttar Pradesh,Secondary,Student,400.724,2,62.9324,8.0,2024-02-19
+RSP-2025-00206,51,Female,Tamil Nadu,None,Unemployed,0.0,7,75.6889,8.0,2024-01-03
+RSP-2025-00207,46,Female,Maharashtra,None,Employed,54595.15,5,89.8042,5.0,2024-02-28
+RSP-2025-00208,23,Male,Gujarat,Primary,Self-Employed,21065.77,6,78.3058,6.0,2024-01-28
+RSP-2025-00209,33,Female,West Bengal,Secondary,Self-Employed,27234.3,5,111.1109,2.0,2024-02-15
+RSP-2025-00210,62,Male,Uttar Pradesh,Primary,Self-Employed,,4,51.3638,3.0,2024-03-04
+RSP-2025-00211,17,Other,Maharashtra,None,Employed,81001.25,4,44.8369,5.0,2024-03-10
+RSP-2025-00212,34,Female,Tamil Nadu,Postgraduate,Employed,92340.46,4,34.9846,2.0,2024-02-16
+RSP-2025-00213,38,Male,Bihar,Graduate,Student,0.0,5,14.8261,3.0,2024-05-21
+RSP-2025-00214,68,Female,Karnataka,Primary,Self-Employed,52328.42,3,15.4251,4.0,2024-05-14
+RSP-2025-00215,47,Female,Bihar,Postgraduate,Retired,30149.89,5,110.1213,6.0,2024-06-07
+RSP-2025-00216,38,Male,Bihar,Graduate,Self-Employed,11283.86,5,88.176,5.0,2024-04-15
+RSP-2025-00217,50,Female,Uttar Pradesh,Higher Secondary,Unemployed,0.0,1,86.131,10.0,2024-03-21
+RSP-2025-00218,52,Female,Tamil Nadu,Primary,Self-Employed,29312.03,6,80.8766,4.0,2024-02-20
+RSP-2025-00219,39,Male,West Bengal,Primary,Student,,5,107.7356,,2024-01-29
+RSP-2025-00220,32,Male,Bihar,Higher Secondary,Unemployed,0.0,5,65.4906,5.0,2024-04-22
+RSP-2025-00221,80,Male,Bihar,Higher Secondary,Self-Employed,25351.43,5,110.162,,2024-05-22
+RSP-2025-00222,68,Male,Gujarat,Primary,Employed,25525.39,7,51.6565,7.0,2024-05-07
+RSP-2025-00223,49,Male,Uttar Pradesh,Higher Secondary,Unemployed,0.0,5,116.608,1.0,2024-03-30
+RSP-2025-00224,75,Female,Uttar Pradesh,Secondary,Self-Employed,13502.18,4,90.4962,4.0,2024-01-25
+RSP-2025-00225,55,Male,West Bengal,Graduate,Employed,16880.92,2,39.9468,5.0,2024-02-10
+RSP-2025-00226,47,Male,Karnataka,Graduate,Employed,11672.84,5,75.0877,8.0,2024-03-09
+RSP-2025-00227,82,Female,Maharashtra,Graduate,Employed,50796.37,3,71.532,8.0,2024-01-04
+RSP-2025-00228,47,Female,Gujarat,Secondary,Employed,6845.38,1,26.2894,1.0,2024-04-14
+RSP-2025-00229,28,Male,Uttar Pradesh,Higher Secondary,Employed,56944.58,3,78.1973,5.0,2024-01-31
+RSP-2025-00230,35,Male,Gujarat,Postgraduate,Employed,66245.78,9,46.543,10.0,2024-05-10
+RSP-2025-00231,62,Male,Uttar Pradesh,Higher Secondary,Retired,22105.52,4,16.4939,1.0,2024-04-26
+RSP-2025-00232,34,Female,Gujarat,Primary,Unemployed,0.0,6,119.1211,1.0,2024-03-30
+RSP-2025-00233,22,Male,Tamil Nadu,None,Employed,21272.03,4,83.9506,2.0,2024-06-26
+RSP-2025-00234,21,Female,Bihar,Graduate,Employed,25803.88,5,110.9072,2.0,2024-05-24
+RSP-2025-00235,81,Female,Uttar Pradesh,Higher Secondary,Self-Employed,13948.28,4,87.9084,9.0,2024-03-06
+RSP-2025-00236,31,Male,Gujarat,Postgraduate,Employed,19246.95,5,51.3746,4.0,2024-03-28
+RSP-2025-00237,47,Female,Maharashtra,Primary,Student,0.0,4,69.2028,3.0,2024-01-24
+RSP-2025-00238,62,Other,Tamil Nadu,Secondary,Self-Employed,41448.32,5,87.873,1.0,2024-04-08
+RSP-2025-00239,73,Male,Tamil Nadu,Secondary,Self-Employed,14750.52,5,120.4489,2.0,2024-06-08
+RSP-2025-00240,36,Female,Maharashtra,Postgraduate,Employed,9523.91,4,39.5452,6.0,2024-04-14
+RSP-2025-00241,44,Female,Gujarat,Primary,Self-Employed,,5,110.6849,9.0,2024-01-19
+RSP-2025-00242,52,Female,West Bengal,Graduate,Employed,23417.83,8,116.3069,5.0,2024-03-06
+RSP-2025-00243,65,Female,Maharashtra,Higher Secondary,Retired,37142.96,3,87.2626,4.0,2024-02-29
+RSP-2025-00244,68,Female,Gujarat,Primary,Self-Employed,18997.15,2,117.13,5.0,2024-04-24
+RSP-2025-00245,22,Female,Maharashtra,Secondary,Employed,37514.2,1,56.0571,9.0,2024-01-15
+RSP-2025-00246,41,Female,Maharashtra,Postgraduate,Employed,,6,119.6204,7.0,2024-03-25
+RSP-2025-00247,41,Female,Uttar Pradesh,Postgraduate,Employed,45710.15,4,90.9686,8.0,2024-06-11
+RSP-2025-00248,35,Female,Gujarat,Higher Secondary,Self-Employed,26075.27,3,15.3097,4.0,2024-06-03
+RSP-2025-00249,44,Female,West Bengal,Postgraduate,Employed,23883.72,2,114.3369,8.0,2024-03-28
+RSP-2025-00250,42,Male,Bihar,Postgraduate,Unemployed,0.0,5,65.9721,6.0,2024-01-07
+RSP-2025-00251,78,Male,Uttar Pradesh,Primary,Employed,57954.68,4,63.2074,5.0,2024-01-06
+RSP-2025-00252,83,Male,Maharashtra,Graduate,Self-Employed,17894.46,6,75.3604,7.0,2024-05-04
+RSP-2025-00253,75,Male,Bihar,Higher Secondary,Student,0.0,3,27.6045,6.0,2024-02-02
+RSP-2025-00254,62,Male,Karnataka,Primary,Self-Employed,27813.55,2,64.2195,3.0,2024-02-27
+RSP-2025-00255,33,Female,Bihar,Graduate,Self-Employed,19415.76,2,105.6641,5.0,2024-06-25
+RSP-2025-00256,18,Male,Maharashtra,Primary,Employed,11024.74,8,12.2727,9.0,2024-05-24
+RSP-2025-00257,49,Female,Maharashtra,None,Employed,33187.66,4,41.749,7.0,2024-04-19
+RSP-2025-00258,78,Male,Gujarat,Primary,Self-Employed,25857.28,4,10.7811,4.0,2024-02-11
+RSP-2025-00259,63,Female,Gujarat,Postgraduate,Employed,37240.65,6,58.0989,7.0,2024-04-03
+RSP-2025-00260,31,Female,Uttar Pradesh,Graduate,Employed,19018.35,6,93.8921,5.0,2024-06-16
+RSP-2025-00261,58,Male,West Bengal,Higher Secondary,Employed,59488.24,2,101.9594,2.0,2024-06-22
+RSP-2025-00262,44,Female,Uttar Pradesh,Higher Secondary,Employed,15215.91,3,118.7242,6.0,2024-05-08
+RSP-2025-00263,60,Male,Tamil Nadu,Graduate,Employed,81864.95,6,80.1738,7.0,2024-03-19
+RSP-2025-00264,20,Female,Maharashtra,Postgraduate,Student,0.0,5,39.6548,8.0,2024-04-04
+RSP-2025-00265,51,Male,Bihar,Secondary,Employed,35689.1,1,116.3149,6.0,2024-04-20
+RSP-2025-00266,38,Female,Karnataka,Primary,Unemployed,0.0,2,99.2737,8.0,2024-04-06
+RSP-2025-00267,60,Male,Maharashtra,,Employed,,5,76.2721,7.0,2024-06-28
+RSP-2025-00268,67,Female,Maharashtra,None,Self-Employed,35449.2,3,90.1508,2.0,2024-06-11
+RSP-2025-00269,74,Female,Uttar Pradesh,Graduate,Employed,61801.76,5,116.3342,6.0,2024-04-28
+RSP-2025-00270,77,Male,Karnataka,Primary,Student,0.0,4,92.0691,9.0,2024-03-09
+RSP-2025-00271,46,Male,Karnataka,Higher Secondary,Student,0.0,6,52.6789,6.0,2024-05-12
+RSP-2025-00272,47,Male,Karnataka,Secondary,Employed,5320.77,6,92.1417,4.0,2024-05-24
+RSP-2025-00273,81,Male,Uttar Pradesh,None,Retired,14361.67,1,15.1118,7.0,2024-02-21
+RSP-2025-00274,32,Female,Maharashtra,Higher Secondary,Retired,77571.71,6,54.7446,,2024-05-21
+RSP-2025-00275,39,Male,Uttar Pradesh,Graduate,Student,0.0,6,57.024,5.0,2024-05-01
+RSP-2025-00276,68,Male,Gujarat,Primary,Student,0.0,4,29.603,1.0,2024-01-29
+RSP-2025-00277,72,Male,Gujarat,Graduate,Employed,23655.25,2,13.1433,10.0,2024-05-15
+RSP-2025-00278,81,Female,Uttar Pradesh,Primary,Unemployed,0.0,3,25.7722,3.0,2024-04-13
+RSP-2025-00279,60,Male,Karnataka,Postgraduate,Employed,8179.67,5,85.4542,8.0,2024-01-01
+RSP-2025-00280,38,Male,Maharashtra,Secondary,Employed,13584.01,5,102.3621,9.0,2024-01-29
+RSP-2025-00281,46,Male,Uttar Pradesh,Postgraduate,Retired,71205.87,3,123.6493,9.0,2024-06-12
+RSP-2025-00282,61,Male,Uttar Pradesh,Postgraduate,Employed,89994.74,3,50.1586,10.0,2024-06-27
+RSP-2025-00283,37,Female,Uttar Pradesh,Graduate,Self-Employed,25153.94,3,79.1289,2.0,2024-06-13
+RSP-2025-00284,80,Male,Tamil Nadu,Secondary,Student,1202.347,2,117.8031,4.0,2024-03-09
+RSP-2025-00285,41,Male,Gujarat,Primary,Student,0.0,4,29.6263,,2024-02-22
+RSP-2025-00286,16,Female,Bihar,Primary,Retired,75840.49,1,92.6704,3.0,2024-05-03
+RSP-2025-00287,31,Female,Karnataka,None,Employed,41827.76,6,96.9451,1.0,2024-06-28
+RSP-2025-00288,47,Male,West Bengal,Higher Secondary,Employed,15866.08,6,20.6877,6.0,2024-03-28
+RSP-2025-00289,23,Female,Bihar,None,Employed,26059.32,4,109.1131,10.0,2024-03-23
+RSP-2025-00290,57,Female,Karnataka,None,Employed,24240.16,4,103.6005,2.0,2024-01-12
+RSP-2025-00291,62,Male,West Bengal,Primary,Employed,33358.01,6,14.3246,9.0,2024-02-21
+RSP-2025-00292,53,Female,Tamil Nadu,Graduate,Employed,69089.01,3,20.9292,,2024-05-08
+RSP-2025-00293,56,Female,Uttar Pradesh,Postgraduate,Self-Employed,47649.2,5,16.125,9.0,2024-05-14
+RSP-2025-00294,40,Male,Tamil Nadu,,Unemployed,0.0,5,48.8281,7.0,2024-05-24
+RSP-2025-00295,64,Male,Tamil Nadu,Postgraduate,Employed,65822.87,6,68.8136,10.0,2024-05-06
+RSP-2025-00296,39,Male,Bihar,Secondary,Self-Employed,32976.02,4,71.4538,2.0,2024-06-19
+RSP-2025-00297,38,Female,Maharashtra,,Employed,42049.08,3,41.1478,6.0,2024-03-11
+RSP-2025-00298,27,Other,Bihar,,Employed,69790.39,4,114.8778,8.0,2024-01-17
+RSP-2025-00299,74,Female,Gujarat,Secondary,Self-Employed,,5,52.6661,2.0,2024-01-03
+RSP-2025-00300,21,Male,West Bengal,Higher Secondary,Self-Employed,26283.94,6,15.7155,,2024-01-29
+RSP-2025-00301,71,Female,Uttar Pradesh,Graduate,Self-Employed,19044.9,4,44.876,6.0,2024-01-22
+RSP-2025-00302,50,Female,Bihar,None,Employed,9709.8,6,71.312,3.0,2024-06-14
+RSP-2025-00303,59,Male,West Bengal,Graduate,Student,0.0,2,57.2414,2.0,2024-02-23
+RSP-2025-00304,34,Male,Karnataka,Graduate,Self-Employed,137655.82,4,41.855,6.0,2024-04-16
+RSP-2025-00305,79,Female,West Bengal,Postgraduate,Unemployed,0.0,4,25.5365,3.0,2024-06-26
+RSP-2025-00306,22,Male,Karnataka,Graduate,Self-Employed,26344.57,7,104.2943,2.0,2024-03-09
+RSP-2025-00307,30,Female,Bihar,None,Student,0.0,5,124.5586,1.0,2024-06-06
+RSP-2025-00308,28,Male,Gujarat,None,Unemployed,0.0,2,48.2326,8.0,2024-05-30
+RSP-2025-00309,29,Male,Bihar,Primary,Unemployed,0.0,2,54.1956,1.0,2024-04-29
+RSP-2025-00310,80,Male,Karnataka,Graduate,Retired,11562.35,8,81.2653,5.0,2024-02-16
+RSP-2025-00311,46,Male,West Bengal,Postgraduate,Self-Employed,31298.06,2,92.7615,6.0,2024-05-28
+RSP-2025-00312,77,Female,West Bengal,Graduate,Employed,16450.37,7,55.3874,3.0,2024-01-20
+RSP-2025-00313,65,Male,Karnataka,Higher Secondary,Self-Employed,6480.49,2,114.1144,7.0,2024-05-30
+RSP-2025-00314,39,Female,Tamil Nadu,Higher Secondary,Employed,58482.62,2,74.6205,2.0,2024-05-28
+RSP-2025-00315,72,Female,Gujarat,Postgraduate,Employed,50158.88,3,62.0697,7.0,2024-01-21
+RSP-2025-00316,77,Female,Maharashtra,Primary,Unemployed,0.0,2,84.544,2.0,2024-01-01
+RSP-2025-00317,76,Male,Uttar Pradesh,Primary,Retired,31222.63,5,119.596,5.0,2024-05-22
+RSP-2025-00318,36,Female,West Bengal,None,Retired,54084.71,1,101.4762,7.0,2024-01-17
+RSP-2025-00319,72,Female,Uttar Pradesh,None,Employed,31126.69,4,15.0815,3.0,2024-02-20
+RSP-2025-00320,72,Male,Maharashtra,Secondary,Unemployed,0.0,2,48.5495,4.0,2024-01-14
+RSP-2025-00321,63,Male,Bihar,Postgraduate,Employed,22173.13,4,64.3774,1.0,2024-02-28
+RSP-2025-00322,66,Female,Uttar Pradesh,Graduate,Retired,63119.78,4,46.5123,3.0,2024-03-23
+RSP-2025-00323,56,Female,Maharashtra,Postgraduate,Retired,33140.48,3,90.6715,9.0,2024-02-19
+RSP-2025-00324,84,Male,Karnataka,Secondary,Self-Employed,30519.89,3,105.1078,,2024-05-03
+RSP-2025-00325,29,Female,Tamil Nadu,None,Student,1178.356,3,94.239,5.0,2024-02-03
+RSP-2025-00326,68,Female,West Bengal,Postgraduate,Self-Employed,32419.69,4,123.7787,8.0,2024-01-06
+RSP-2025-00327,74,Female,Maharashtra,Postgraduate,Unemployed,0.0,4,41.7067,2.0,2024-04-18
+RSP-2025-00328,22,Female,Uttar Pradesh,None,Employed,17767.32,3,110.6863,3.0,2024-02-18
+RSP-2025-00329,67,Female,West Bengal,Secondary,Unemployed,1583.544,5,98.2783,7.0,2024-01-06
+RSP-2025-00330,74,Male,Tamil Nadu,None,Self-Employed,13452.86,3,51.9695,10.0,2024-04-26
+RSP-2025-00331,19,Male,Karnataka,Primary,Self-Employed,107055.37,6,94.5573,4.0,2024-04-27
+RSP-2025-00332,82,Male,Bihar,Graduate,Employed,63918.9,1,22.4167,9.0,2024-01-07
+RSP-2025-00333,20,Female,West Bengal,None,Retired,93736.12,7,100.8787,7.0,2024-04-06
+RSP-2025-00334,61,Female,Bihar,Secondary,Employed,12150.41,5,71.4519,1.0,2024-06-27
+RSP-2025-00335,69,Male,Maharashtra,Higher Secondary,Unemployed,0.0,6,43.9672,4.0,2024-04-27
+RSP-2025-00336,54,Female,Tamil Nadu,Primary,Self-Employed,11605.33,7,85.5865,10.0,2024-05-08
+RSP-2025-00337,66,Female,Uttar Pradesh,Higher Secondary,Self-Employed,17116.5,5,83.9655,,2024-05-20
+RSP-2025-00338,30,Female,Tamil Nadu,None,Self-Employed,,2,34.4862,6.0,2024-06-19
+RSP-2025-00339,27,Male,Tamil Nadu,Primary,Employed,60218.18,3,13.9805,10.0,2024-01-27
+RSP-2025-00340,44,Female,Gujarat,Graduate,Employed,20794.64,5,60.1498,6.0,2024-04-25
+RSP-2025-00341,33,Male,Tamil Nadu,None,Self-Employed,53876.33,3,75.7091,5.0,2024-05-10
+RSP-2025-00342,31,Male,Tamil Nadu,Graduate,Unemployed,0.0,2,110.8713,3.0,2024-02-27
+RSP-2025-00343,77,Male,West Bengal,Postgraduate,Employed,120254.45,2,116.7808,2.0,2024-03-29
+RSP-2025-00344,33,Male,Uttar Pradesh,Higher Secondary,Self-Employed,10284.17,4,71.0482,3.0,2024-04-06
+RSP-2025-00345,72,Male,West Bengal,Primary,Unemployed,,4,96.8105,9.0,2024-01-17
+RSP-2025-00346,69,Female,West Bengal,Graduate,Self-Employed,56680.56,5,60.8002,3.0,2024-06-21
+RSP-2025-00347,76,Male,Maharashtra,Secondary,Student,0.0,5,95.9264,3.0,2024-04-10
+RSP-2025-00348,37,Female,West Bengal,Graduate,Employed,,2,33.9498,1.0,2024-01-29
+RSP-2025-00349,23,Male,Gujarat,Secondary,Employed,33472.99,5,52.9869,2.0,2024-04-11
+RSP-2025-00350,26,Female,Gujarat,None,Self-Employed,23205.4,5,83.1191,3.0,2024-05-02
+RSP-2025-00351,15,Female,Bihar,Primary,Self-Employed,15747.58,1,12.5791,2.0,2024-02-23
+RSP-2025-00352,72,Male,Maharashtra,Graduate,Self-Employed,16857.97,3,93.2218,8.0,2024-01-27
+RSP-2025-00353,15,Male,Bihar,Graduate,Student,0.0,2,106.1688,6.0,2024-04-11
+RSP-2025-00354,48,Male,Bihar,Primary,Student,0.0,4,56.2017,7.0,2024-04-26
+RSP-2025-00355,62,Female,Karnataka,Graduate,Retired,,3,61.7894,1.0,2024-04-13
+RSP-2025-00356,15,Female,Uttar Pradesh,Secondary,Unemployed,0.0,7,107.9718,6.0,2024-02-14
+RSP-2025-00357,30,Male,Uttar Pradesh,Graduate,Unemployed,0.0,5,99.3125,2.0,2024-04-23
+RSP-2025-00358,75,Female,West Bengal,Higher Secondary,Employed,54354.9,6,43.4931,6.0,2024-03-27
+RSP-2025-00359,78,Male,West Bengal,None,Employed,11190.0,5,47.5953,3.0,2024-01-31
+RSP-2025-00360,77,Male,Karnataka,Postgraduate,Unemployed,0.0,4,88.2316,7.0,2024-06-12
+RSP-2025-00361,83,Female,West Bengal,Secondary,Employed,27504.86,7,74.9862,3.0,2024-02-06
+RSP-2025-00362,36,Male,Uttar Pradesh,Higher Secondary,Retired,28922.99,4,29.0753,9.0,2024-02-05
+RSP-2025-00363,81,Female,Bihar,None,Unemployed,0.0,2,45.987,3.0,2024-04-28
+RSP-2025-00364,40,Male,Tamil Nadu,Primary,Unemployed,0.0,4,113.5481,7.0,2024-01-05
+RSP-2025-00365,30,Other,Gujarat,Secondary,Employed,42207.63,8,89.296,4.0,2024-06-22
+RSP-2025-00366,65,Male,Tamil Nadu,Postgraduate,Employed,43369.62,4,123.3941,8.0,2024-02-21
+RSP-2025-00367,71,Male,Tamil Nadu,None,Employed,14174.89,3,98.3229,2.0,2024-02-18
+RSP-2025-00368,43,Female,Uttar Pradesh,Postgraduate,Employed,22366.04,7,118.3561,8.0,2024-01-06
+RSP-2025-00369,83,Male,Tamil Nadu,Primary,Employed,58489.11,1,35.2536,9.0,2024-05-02
+RSP-2025-00370,61,Female,Karnataka,Primary,Self-Employed,48123.25,6,98.835,8.0,2024-05-17
+RSP-2025-00371,76,Female,Maharashtra,Secondary,Student,0.0,2,12.8149,6.0,2024-04-27
+RSP-2025-00372,83,Female,West Bengal,Graduate,Student,0.0,3,87.302,10.0,2024-01-23
+RSP-2025-00373,30,Female,Maharashtra,Primary,Self-Employed,7436.49,7,64.2328,1.0,2024-05-24
+RSP-2025-00374,62,Female,Bihar,None,Employed,27736.59,4,50.204,7.0,2024-04-19
+RSP-2025-00375,53,Female,Gujarat,Graduate,Student,0.0,6,109.2453,1.0,2024-02-13
+RSP-2025-00376,47,Female,West Bengal,Higher Secondary,Student,0.0,3,108.3137,7.0,2024-02-10
+RSP-2025-00377,37,Female,Tamil Nadu,Postgraduate,Employed,15641.61,4,13.0535,2.0,2024-05-22
+RSP-2025-00378,24,Male,Gujarat,Graduate,Self-Employed,44206.16,6,80.2883,8.0,2024-06-20
+RSP-2025-00379,83,Male,West Bengal,Postgraduate,Employed,9869.25,1,52.6168,2.0,2024-02-19
+RSP-2025-00380,48,Female,Karnataka,Graduate,Student,0.0,4,58.0932,3.0,2024-02-21
+RSP-2025-00381,66,Male,Karnataka,,Retired,39643.68,2,105.7687,3.0,2024-03-10
+RSP-2025-00382,24,Male,Karnataka,Primary,Employed,17813.54,5,45.9767,,2024-05-30
+RSP-2025-00383,33,Male,Karnataka,Higher Secondary,Student,0.0,1,118.4791,5.0,2024-06-20
+RSP-2025-00384,72,Male,Tamil Nadu,Primary,Self-Employed,43639.62,6,31.0681,5.0,2024-04-18
+RSP-2025-00385,15,Female,Maharashtra,Primary,Retired,35383.64,4,86.3817,10.0,2024-04-27
+RSP-2025-00386,83,Female,West Bengal,Postgraduate,Unemployed,0.0,4,87.456,5.0,2024-04-18
+RSP-2025-00387,18,Male,Tamil Nadu,None,Student,0.0,7,39.3763,9.0,2024-04-04
+RSP-2025-00388,30,Female,Karnataka,Higher Secondary,Employed,34219.12,9,47.6839,6.0,2024-02-13
+RSP-2025-00389,38,Female,Bihar,Graduate,Employed,24824.19,3,106.0844,,2024-06-28
+RSP-2025-00390,16,Male,Maharashtra,Higher Secondary,Employed,36227.5,2,97.7267,3.0,2024-03-07
+RSP-2025-00391,46,Female,Bihar,Postgraduate,Retired,19477.09,4,48.1815,5.0,2024-06-04
+RSP-2025-00392,38,Male,Gujarat,Primary,Student,0.0,4,71.638,10.0,2024-03-07
+RSP-2025-00393,26,Male,Bihar,Postgraduate,Student,0.0,1,17.5624,7.0,2024-01-18
+RSP-2025-00394,64,Female,Gujarat,Secondary,Retired,26297.92,6,34.4014,3.0,2024-06-03
+RSP-2025-00395,49,Male,Gujarat,Secondary,Employed,15880.54,3,66.1265,2.0,2024-06-27
+RSP-2025-00396,47,Female,Karnataka,Graduate,Employed,13041.21,6,20.344,,2024-02-29
+RSP-2025-00397,47,Female,Gujarat,Postgraduate,Employed,31828.89,8,107.0616,3.0,2024-03-14
+RSP-2025-00398,75,Male,Uttar Pradesh,Graduate,Employed,30892.88,4,92.7117,5.0,2024-02-18
+RSP-2025-00399,65,Female,West Bengal,Graduate,Employed,44750.95,4,118.5461,9.0,2024-01-15
+RSP-2025-00400,57,Female,West Bengal,Secondary,Unemployed,0.0,3,89.902,10.0,2024-03-13
+RSP-2025-00401,26,Male,Karnataka,Graduate,Employed,35074.66,6,118.176,1.0,2024-05-22
+RSP-2025-00402,81,Female,Uttar Pradesh,Secondary,Employed,38484.79,4,73.9917,4.0,2024-06-27
+RSP-2025-00403,79,Female,Bihar,,Employed,35921.92,2,79.225,10.0,2024-02-17
+RSP-2025-00404,47,Female,Tamil Nadu,Postgraduate,Employed,15730.0,3,122.3632,5.0,2024-03-12
+RSP-2025-00405,54,Female,Bihar,Graduate,Retired,29646.11,2,84.0238,2.0,2024-04-22
+RSP-2025-00406,57,Male,Tamil Nadu,Secondary,Self-Employed,34087.68,7,14.0251,2.0,2024-05-08
+RSP-2025-00407,58,Female,Gujarat,Higher Secondary,Retired,27029.01,3,93.3754,1.0,2024-05-14
+RSP-2025-00408,43,Female,Maharashtra,Graduate,Employed,6931.21,5,114.1762,8.0,2024-02-22
+RSP-2025-00409,27,Female,Tamil Nadu,None,Employed,29861.29,4,101.5939,2.0,2024-06-07
+RSP-2025-00410,26,Female,Maharashtra,Primary,Self-Employed,113339.74,3,77.3489,3.0,2024-01-18
+RSP-2025-00411,60,Female,West Bengal,Primary,Employed,21289.61,4,87.3643,2.0,2024-01-12
+RSP-2025-00412,16,Male,Maharashtra,Higher Secondary,Employed,16759.99,5,123.877,4.0,2024-02-17
+RSP-2025-00413,49,Female,West Bengal,Secondary,Employed,34292.32,6,20.8808,,2024-01-30
+RSP-2025-00414,22,Female,Uttar Pradesh,Graduate,Employed,32959.86,4,86.8995,3.0,2024-04-06
+RSP-2025-00415,40,Female,Uttar Pradesh,Secondary,Employed,58412.07,3,42.949,5.0,2024-01-07
+RSP-2025-00416,48,Female,Karnataka,Primary,Employed,11877.32,5,83.7904,10.0,2024-04-01
+RSP-2025-00417,21,Male,Karnataka,Secondary,Self-Employed,43277.89,1,80.0729,1.0,2024-04-22
+RSP-2025-00418,82,Male,Gujarat,Primary,Employed,39488.88,4,28.0708,4.0,2024-01-03
+RSP-2025-00419,72,Male,Tamil Nadu,Secondary,Employed,24528.84,1,34.1725,6.0,2024-04-16
+RSP-2025-00420,43,Male,Gujarat,Higher Secondary,Student,0.0,4,81.6766,4.0,2024-03-03
+RSP-2025-00421,50,Female,West Bengal,Postgraduate,Employed,52530.4,5,25.1823,7.0,2024-05-13
+RSP-2025-00422,35,Female,Gujarat,Higher Secondary,Employed,47429.75,1,40.8632,7.0,2024-04-11
+RSP-2025-00423,50,Female,Maharashtra,Higher Secondary,Student,0.0,3,106.1356,6.0,2024-01-15
+RSP-2025-00424,24,Male,West Bengal,Postgraduate,Employed,45848.73,1,47.952,9.0,2024-06-19
+RSP-2025-00425,38,Female,Karnataka,Postgraduate,Employed,25795.42,3,66.3829,2.0,2024-03-31
+RSP-2025-00426,78,Male,Uttar Pradesh,Graduate,Unemployed,0.0,3,118.2606,10.0,2024-03-21
+RSP-2025-00427,63,Male,Karnataka,Graduate,Employed,28214.13,1,36.5086,8.0,2024-05-25
+RSP-2025-00428,50,Female,Tamil Nadu,Higher Secondary,Unemployed,0.0,2,55.1122,8.0,2024-05-29
+RSP-2025-00429,38,Female,West Bengal,Higher Secondary,Student,5837.307000000001,6,79.9394,10.0,2024-03-01
+RSP-2025-00430,37,Male,West Bengal,Primary,Employed,25478.32,7,96.9863,4.0,2024-04-29
+RSP-2025-00431,76,Male,Maharashtra,Primary,Unemployed,0.0,3,113.7393,6.0,2024-03-01
+RSP-2025-00432,51,Male,Tamil Nadu,,Unemployed,0.0,4,115.3217,,2024-02-22
+RSP-2025-00433,26,Male,Uttar Pradesh,None,Employed,30216.75,3,99.4253,5.0,2024-01-26
+RSP-2025-00434,69,Female,Bihar,None,Self-Employed,59813.68,5,36.6439,1.0,2024-04-24
+RSP-2025-00435,27,Male,West Bengal,Graduate,Employed,39815.5,1,13.3407,3.0,2024-02-09
+RSP-2025-00436,37,Female,West Bengal,Primary,Unemployed,0.0,5,54.4421,7.0,2024-03-28
+RSP-2025-00437,44,Male,Maharashtra,Primary,Employed,135316.73,2,26.7073,8.0,2024-04-25
+RSP-2025-00438,31,Male,Gujarat,None,Unemployed,0.0,1,91.8394,2.0,2024-05-15
+RSP-2025-00439,76,Male,Uttar Pradesh,Secondary,Employed,61636.16,1,86.1995,3.0,2024-01-21
+RSP-2025-00440,27,Male,Karnataka,Secondary,Student,0.0,4,15.5348,4.0,2024-02-12
+RSP-2025-00441,73,Male,Tamil Nadu,Primary,Employed,38051.03,1,106.29,5.0,2024-01-21
+RSP-2025-00442,33,Male,West Bengal,Secondary,Employed,46427.84,4,38.9811,3.0,2024-05-10
+RSP-2025-00443,63,Female,West Bengal,Postgraduate,Unemployed,0.0,4,59.99,5.0,2024-01-31
+RSP-2025-00444,26,Male,Karnataka,Graduate,Self-Employed,53492.11,2,86.9784,8.0,2024-06-03
+RSP-2025-00445,75,Female,Uttar Pradesh,Graduate,Unemployed,0.0,4,59.6685,8.0,2024-01-27
+RSP-2025-00446,33,Male,Gujarat,Primary,Self-Employed,21920.85,3,61.0275,2.0,2024-03-13
+RSP-2025-00447,23,Female,West Bengal,Higher Secondary,Self-Employed,18552.6,6,18.0144,6.0,2024-04-06
+RSP-2025-00448,42,Female,Uttar Pradesh,None,Student,0.0,5,56.4653,4.0,2024-06-09
+RSP-2025-00449,66,Female,Karnataka,Primary,Employed,49342.11,6,98.0751,9.0,2024-03-30
+RSP-2025-00450,30,Female,Maharashtra,Secondary,Unemployed,0.0,2,115.2877,10.0,2024-02-13
+RSP-2025-00451,83,Female,Gujarat,None,Student,0.0,3,57.8454,2.0,2024-02-12
+RSP-2025-00452,26,Female,Tamil Nadu,Higher Secondary,Retired,69161.59,4,59.0006,8.0,2024-01-31
+RSP-2025-00453,39,Female,West Bengal,Secondary,Student,0.0,7,90.9508,1.0,2024-04-26
+RSP-2025-00454,66,Female,Uttar Pradesh,Postgraduate,Employed,15615.22,3,118.4474,6.0,2024-03-16
+RSP-2025-00455,67,Male,Maharashtra,Secondary,Employed,24557.1,5,41.0785,10.0,2024-05-24
+RSP-2025-00456,37,Male,Tamil Nadu,Postgraduate,Unemployed,0.0,3,60.8965,1.0,2024-05-22
+RSP-2025-00457,30,Female,Bihar,None,Self-Employed,19130.35,5,101.6389,2.0,2024-02-03
+RSP-2025-00458,71,Female,Uttar Pradesh,Postgraduate,Unemployed,0.0,4,80.3099,3.0,2024-03-20
+RSP-2025-00459,53,Female,Uttar Pradesh,None,Unemployed,0.0,2,23.1621,9.0,2024-01-04
+RSP-2025-00460,67,Female,Tamil Nadu,None,Student,0.0,4,82.3754,5.0,2024-03-12
+RSP-2025-00461,56,Other,Maharashtra,None,Employed,10579.35,1,31.8824,10.0,2024-04-07
+RSP-2025-00462,72,Male,Bihar,None,Student,0.0,1,68.9197,10.0,2024-04-19
+RSP-2025-00463,53,Male,Karnataka,None,Employed,,6,71.0823,2.0,2024-01-28
+RSP-2025-00464,28,Male,Maharashtra,Secondary,Employed,6726.52,6,110.8253,10.0,2024-05-09
+RSP-2025-00465,19,Male,Gujarat,None,Unemployed,0.0,7,63.4556,5.0,2024-01-17
+RSP-2025-00466,49,Female,West Bengal,Secondary,Self-Employed,24274.94,3,42.4962,5.0,2024-02-27
+RSP-2025-00467,32,Male,Tamil Nadu,None,Employed,221462.92,4,36.9456,1.0,2024-05-06
+RSP-2025-00468,23,Female,Karnataka,Postgraduate,Employed,120589.27,5,110.6018,3.0,2024-01-09
+RSP-2025-00469,72,Male,Bihar,None,Retired,23910.14,3,30.0807,5.0,2024-01-31
+RSP-2025-00470,31,Female,Tamil Nadu,Higher Secondary,Employed,25106.47,6,59.262,9.0,2024-03-28
+RSP-2025-00471,21,Female,Tamil Nadu,None,Unemployed,0.0,7,31.9313,10.0,2024-03-02
+RSP-2025-00472,60,Male,Maharashtra,None,Unemployed,0.0,5,99.0433,1.0,2024-01-19
+RSP-2025-00473,27,Female,West Bengal,Postgraduate,Unemployed,0.0,3,64.8157,8.0,2024-03-21
+RSP-2025-00474,54,Male,Gujarat,Graduate,Self-Employed,8424.13,3,50.706,1.0,2024-04-16
+RSP-2025-00475,56,Male,Uttar Pradesh,Postgraduate,Employed,17955.96,3,51.8459,9.0,2024-02-24
+RSP-2025-00476,23,Male,Uttar Pradesh,Higher Secondary,Unemployed,0.0,4,108.0785,6.0,2024-06-04
+RSP-2025-00477,64,Male,Tamil Nadu,Graduate,Employed,37159.24,3,73.9071,1.0,2024-04-21
+RSP-2025-00478,41,Male,West Bengal,Primary,Self-Employed,53925.11,6,92.6959,8.0,2024-05-02
+RSP-2025-00479,80,Female,Bihar,Primary,Employed,12335.01,4,113.2109,5.0,2024-06-26
+RSP-2025-00480,19,Female,Bihar,Higher Secondary,Unemployed,0.0,1,113.7494,7.0,2024-03-05
+RSP-2025-00481,43,Female,Karnataka,Postgraduate,Employed,46990.9,5,48.1143,7.0,2024-05-03
+RSP-2025-00482,51,Male,Maharashtra,Secondary,Employed,15704.03,6,119.5557,7.0,2024-01-03
+RSP-2025-00483,52,Female,West Bengal,Higher Secondary,Employed,7244.39,3,13.3483,6.0,2024-06-28
+RSP-2025-00484,22,Male,West Bengal,Graduate,Employed,29563.37,5,53.6477,8.0,2024-05-17
+RSP-2025-00485,79,Male,Maharashtra,Graduate,Student,0.0,7,113.069,9.0,2024-01-21
+RSP-2025-00486,31,Female,Bihar,None,Employed,24851.24,6,41.9459,2.0,2024-02-06
+RSP-2025-00487,59,Male,Bihar,Primary,Retired,19978.23,6,41.7678,7.0,2024-01-15
+RSP-2025-00488,18,Female,Bihar,Graduate,Retired,24255.89,6,45.1503,2.0,2024-03-27
+RSP-2025-00489,50,Female,Tamil Nadu,Higher Secondary,Unemployed,2114.421,4,80.6099,6.0,2024-04-29
+RSP-2025-00490,84,Male,West Bengal,Graduate,Employed,11201.12,2,60.6891,2.0,2024-05-16
+RSP-2025-00491,45,Male,Uttar Pradesh,Higher Secondary,Employed,16906.57,5,93.7111,10.0,2024-02-13
+RSP-2025-00492,33,Male,Maharashtra,Secondary,Self-Employed,37753.44,4,112.9673,6.0,2024-02-08
+RSP-2025-00493,75,Female,Bihar,None,Employed,33159.72,4,87.6958,2.0,2024-05-12
+RSP-2025-00494,68,Male,Karnataka,Primary,Employed,30008.59,3,33.9114,1.0,2024-01-25
+RSP-2025-00495,53,Male,Bihar,Graduate,Unemployed,0.0,4,117.2921,7.0,2024-02-25
+RSP-2025-00496,33,Male,Bihar,Higher Secondary,Student,2390.93,4,40.7844,3.0,2024-04-30
+RSP-2025-00497,53,Female,Gujarat,Postgraduate,Self-Employed,6534.87,5,27.6629,4.0,2024-03-30
+RSP-2025-00498,81,Male,Tamil Nadu,Primary,Employed,30212.46,4,20.8013,6.0,2024-03-04
+RSP-2025-00499,59,Male,Maharashtra,Secondary,Self-Employed,68101.7,6,75.0074,5.0,2024-06-28
+RSP-2025-00500,27,Female,Gujarat,Higher Secondary,Employed,10319.74,4,23.5258,4.0,2024-03-29
+RSP-2025-00501,72,Female,Gujarat,None,Employed,18382.36,1,26.3898,9.0,2024-04-21
+RSP-2025-00502,34,Male,Karnataka,None,Student,0.0,1,44.8535,6.0,2024-03-16
+RSP-2025-00503,75,Male,West Bengal,Secondary,Employed,60739.39,3,42.7493,6.0,2024-05-16
+RSP-2025-00504,53,Male,Karnataka,Secondary,Employed,20103.6,6,79.6854,2.0,2024-05-17
+RSP-2025-00505,15,Female,West Bengal,None,Employed,17154.87,4,104.0173,6.0,2024-01-10
+RSP-2025-00506,17,Male,West Bengal,Graduate,Student,0.0,1,97.6745,7.0,2024-03-02
+RSP-2025-00507,76,Female,Maharashtra,Graduate,Self-Employed,28774.21,5,40.5545,8.0,2024-03-30
+RSP-2025-00508,77,Female,Bihar,Higher Secondary,Self-Employed,101452.85,2,38.5881,8.0,2024-02-29
+RSP-2025-00509,39,Female,Maharashtra,Postgraduate,Self-Employed,,2,121.0831,9.0,2024-05-26
+RSP-2025-00510,70,Male,Tamil Nadu,Higher Secondary,Employed,26516.4,5,11.443,10.0,2024-04-16
+RSP-2025-00511,47,Female,West Bengal,Postgraduate,Unemployed,0.0,3,111.228,3.0,2024-02-07
+RSP-2025-00512,52,Female,Gujarat,Secondary,Employed,26709.92,4,33.3689,10.0,2024-05-13
+RSP-2025-00513,20,Female,Bihar,Primary,Employed,15859.76,5,118.9641,7.0,2024-05-22
+RSP-2025-00514,72,Male,Uttar Pradesh,Higher Secondary,Unemployed,0.0,5,49.6942,7.0,2024-02-16
+RSP-2025-00515,58,Other,Tamil Nadu,Higher Secondary,Retired,31155.47,2,60.9203,1.0,2024-06-21
+RSP-2025-00516,59,Male,Maharashtra,Postgraduate,Employed,27212.96,4,91.4653,8.0,2024-05-12
+RSP-2025-00517,46,Male,Karnataka,Secondary,Employed,14271.39,4,77.7881,4.0,2024-03-18
+RSP-2025-00518,59,Male,Tamil Nadu,Secondary,Employed,62772.99,7,46.9041,5.0,2024-02-22
+RSP-2025-00519,75,Female,Tamil Nadu,Postgraduate,Employed,41442.28,2,73.9136,6.0,2024-03-02
+RSP-2025-00520,61,Male,Bihar,Secondary,Retired,18781.01,1,94.1659,3.0,2024-01-23
+RSP-2025-00521,35,Male,Tamil Nadu,None,Unemployed,0.0,5,15.3474,5.0,2024-02-13
+RSP-2025-00522,50,Male,Tamil Nadu,Graduate,Unemployed,0.0,4,11.7823,10.0,2024-02-21
+RSP-2025-00523,33,Male,Uttar Pradesh,None,Self-Employed,16182.69,2,62.9487,5.0,2024-02-15
+RSP-2025-00524,34,Female,Karnataka,Primary,Employed,,7,25.5953,1.0,2024-05-26
+RSP-2025-00525,71,Female,Karnataka,Higher Secondary,Unemployed,0.0,4,86.5674,3.0,2024-03-24
+RSP-2025-00526,32,Male,Karnataka,Primary,Employed,36552.42,5,35.009,3.0,2024-02-16
+RSP-2025-00527,61,Male,West Bengal,Higher Secondary,Unemployed,0.0,5,60.0615,1.0,2024-03-31
+RSP-2025-00528,63,Female,Gujarat,Graduate,Retired,12106.67,2,33.1333,7.0,2024-02-21
+RSP-2025-00529,28,Male,Karnataka,Secondary,Self-Employed,6980.44,4,73.3014,1.0,2024-01-24
+RSP-2025-00530,29,Male,Tamil Nadu,None,Employed,25439.41,7,23.7881,7.0,2024-05-24
+RSP-2025-00531,45,Female,Tamil Nadu,Postgraduate,Student,0.0,3,13.1457,4.0,2024-03-29
+RSP-2025-00532,15,Female,Karnataka,None,Employed,21756.06,7,16.3546,9.0,2024-06-22
+RSP-2025-00533,68,Male,Bihar,Graduate,Employed,13661.33,8,119.7626,7.0,2024-03-04
+RSP-2025-00534,17,Female,Karnataka,Primary,Employed,12557.18,5,26.7918,5.0,2024-04-28
+RSP-2025-00535,30,Male,Tamil Nadu,Postgraduate,Employed,36382.4,3,91.6208,7.0,2024-06-04
+RSP-2025-00536,71,Female,West Bengal,Secondary,Unemployed,,4,18.2776,9.0,2024-06-26
+RSP-2025-00537,26,Male,Maharashtra,Graduate,Self-Employed,33045.24,2,22.8844,10.0,2024-03-04
+RSP-2025-00538,30,Male,Maharashtra,Postgraduate,Retired,15132.32,3,68.7663,6.0,2024-06-04
+RSP-2025-00539,38,Male,Karnataka,Graduate,Unemployed,0.0,5,63.7277,1.0,2024-03-26
+RSP-2025-00540,42,Female,Uttar Pradesh,Graduate,Unemployed,0.0,4,119.4559,6.0,2024-02-25
+RSP-2025-00541,22,Female,Karnataka,Secondary,Employed,39379.78,3,118.6837,1.0,2024-02-28
+RSP-2025-00542,50,Male,Bihar,Higher Secondary,Employed,20577.04,5,99.7652,4.0,2024-05-12
+RSP-2025-00543,22,Male,Karnataka,Postgraduate,Unemployed,0.0,4,79.4407,8.0,2024-06-20
+RSP-2025-00544,72,Female,Maharashtra,Secondary,Employed,23007.32,6,62.593,5.0,2024-06-18
+RSP-2025-00545,74,Male,Tamil Nadu,Graduate,Student,0.0,8,51.2824,5.0,2024-05-04
+RSP-2025-00546,64,Male,Karnataka,Secondary,Employed,21771.41,1,118.9415,10.0,2024-02-16
+RSP-2025-00547,42,Female,Tamil Nadu,Higher Secondary,Employed,24177.61,5,79.5331,8.0,2024-04-30
+RSP-2025-00548,55,Male,Tamil Nadu,None,Employed,30879.9,2,76.8038,8.0,2024-06-01
+RSP-2025-00549,78,Female,Uttar Pradesh,Postgraduate,Employed,14105.45,5,37.0527,1.0,2024-04-11
+RSP-2025-00550,41,Female,Tamil Nadu,Higher Secondary,Employed,13900.48,1,15.8469,5.0,2024-02-13
+RSP-2025-00551,77,Male,Maharashtra,Primary,Self-Employed,10910.13,2,118.7241,5.0,2024-01-15
+RSP-2025-00552,31,Male,West Bengal,Postgraduate,Employed,,3,46.4227,8.0,2024-04-14
+RSP-2025-00553,47,Male,West Bengal,Higher Secondary,Self-Employed,12194.82,4,61.1764,1.0,2024-02-20
+RSP-2025-00554,43,Female,Gujarat,Graduate,Employed,29841.36,1,23.6263,7.0,2024-02-22
+RSP-2025-00555,27,Female,Bihar,Postgraduate,Employed,15058.35,3,106.3278,7.0,2024-02-03
+RSP-2025-00556,60,Female,Karnataka,Postgraduate,Employed,37565.8,6,13.6638,9.0,2024-05-03
+RSP-2025-00557,49,Male,Bihar,Secondary,Student,0.0,6,105.9919,2.0,2024-03-17
+RSP-2025-00558,20,Female,Maharashtra,Graduate,Employed,7483.62,7,26.5626,3.0,2024-05-15
+RSP-2025-00559,83,Female,Tamil Nadu,Primary,Self-Employed,41181.08,5,112.0116,4.0,2024-05-02
+RSP-2025-00560,61,Female,West Bengal,None,Employed,45570.65,3,94.059,1.0,2024-03-10
+RSP-2025-00561,39,Female,Bihar,Higher Secondary,Self-Employed,,6,29.3547,7.0,2024-01-21
+RSP-2025-00562,80,Female,Maharashtra,Secondary,Employed,35352.5,5,75.2862,10.0,2024-04-17
+RSP-2025-00563,24,Female,West Bengal,Higher Secondary,Self-Employed,15417.77,4,46.2991,3.0,2024-04-17
+RSP-2025-00564,70,Female,Tamil Nadu,Primary,Unemployed,0.0,6,30.9077,,2024-05-14
+RSP-2025-00565,44,Male,Bihar,Primary,Retired,11826.24,3,108.8764,3.0,2024-03-30
+RSP-2025-00566,19,Male,West Bengal,Postgraduate,Employed,8387.36,3,56.7034,8.0,2024-03-19
+RSP-2025-00567,47,Female,Karnataka,Primary,Employed,20976.73,5,56.1333,9.0,2024-06-25
+RSP-2025-00568,79,Male,Karnataka,Higher Secondary,Employed,24824.25,7,29.952,10.0,2024-02-11
+RSP-2025-00569,32,Female,Gujarat,Graduate,Student,0.0,4,54.361,,2024-05-30
+RSP-2025-00570,63,Other,Gujarat,Graduate,Unemployed,1246.1260000000002,5,110.3001,10.0,2024-02-21
+RSP-2025-00571,25,Female,West Bengal,Postgraduate,Self-Employed,20745.11,4,52.0782,10.0,2024-04-11
+RSP-2025-00572,40,Male,Maharashtra,None,Employed,32049.65,9,119.4586,1.0,2024-04-14
+RSP-2025-00573,77,Male,Karnataka,Higher Secondary,Employed,26129.48,2,118.8524,9.0,2024-03-19
+RSP-2025-00574,73,Male,Maharashtra,Higher Secondary,Employed,30291.6,4,27.0909,6.0,2024-04-21
+RSP-2025-00575,41,Female,Maharashtra,Primary,Retired,17403.47,5,30.8021,9.0,2024-04-13
+RSP-2025-00576,63,Female,West Bengal,Higher Secondary,Self-Employed,57619.52,8,109.2762,6.0,2024-01-16
+RSP-2025-00577,47,Female,Maharashtra,Secondary,Retired,12525.07,3,55.4711,2.0,2024-04-05
+RSP-2025-00578,15,Male,Karnataka,None,Employed,36934.97,3,11.0008,1.0,2024-02-06
+RSP-2025-00579,35,Female,Tamil Nadu,Primary,Self-Employed,58001.79,2,41.8583,8.0,2024-05-25
+RSP-2025-00580,69,Female,Gujarat,Secondary,Self-Employed,36775.61,7,78.9285,3.0,2024-05-27
+RSP-2025-00581,20,Male,Tamil Nadu,Postgraduate,Employed,23584.84,2,102.016,1.0,2024-02-15
+RSP-2025-00582,83,Female,Maharashtra,Graduate,Student,0.0,6,25.773,8.0,2024-01-02
+RSP-2025-00583,19,Male,Tamil Nadu,Postgraduate,Retired,52757.28,5,23.157,1.0,2024-04-28
+RSP-2025-00584,17,Male,Karnataka,Graduate,Student,1066.867,7,116.0796,8.0,2024-03-27
+RSP-2025-00585,67,Female,Karnataka,Postgraduate,Self-Employed,14320.1,4,96.5065,1.0,2024-04-03
+RSP-2025-00586,37,Male,Maharashtra,Higher Secondary,Employed,20776.7,1,78.0298,9.0,2024-01-03
+RSP-2025-00587,67,Female,West Bengal,Secondary,Employed,60142.68,4,98.5719,9.0,2024-06-22
+RSP-2025-00588,51,Female,Tamil Nadu,Graduate,Retired,34435.7,6,59.6038,9.0,2024-04-20
+RSP-2025-00589,31,Female,West Bengal,Primary,Employed,14339.46,1,97.3432,3.0,2024-06-25
+RSP-2025-00590,15,Male,West Bengal,Secondary,Self-Employed,21989.05,7,53.0714,4.0,2024-01-01
+RSP-2025-00591,65,Female,Uttar Pradesh,Primary,Self-Employed,18046.19,4,38.4488,5.0,2024-04-14
+RSP-2025-00592,59,Female,Maharashtra,Secondary,Self-Employed,16960.41,2,93.972,6.0,2024-01-22
+RSP-2025-00593,18,Female,Gujarat,Secondary,Retired,50831.84,3,58.5525,9.0,2024-05-21
+RSP-2025-00594,76,Male,Karnataka,Postgraduate,Employed,11029.92,4,122.8677,4.0,2024-06-21
+RSP-2025-00595,79,Male,Karnataka,Graduate,Employed,76550.62,3,50.5161,6.0,2024-05-13
+RSP-2025-00596,46,Female,Maharashtra,Graduate,Employed,46089.91,5,116.0378,1.0,2024-03-05
+RSP-2025-00597,48,Male,Bihar,Secondary,Employed,,4,117.3242,2.0,2024-01-21
+RSP-2025-00598,53,Female,Bihar,Higher Secondary,Employed,19912.23,2,38.1922,8.0,2024-01-04
+RSP-2025-00599,40,Female,Bihar,Higher Secondary,Employed,24404.88,3,101.8963,4.0,2024-05-10
+RSP-2025-00600,48,Female,Gujarat,Primary,Student,0.0,5,60.087,10.0,2024-04-22
+RSP-2025-00601,68,Female,Karnataka,Primary,Retired,19129.17,2,115.5566,7.0,2024-01-30
+RSP-2025-00602,17,Female,Maharashtra,Postgraduate,Employed,37081.58,3,62.0392,4.0,2024-01-31
+RSP-2025-00603,64,Female,Karnataka,Secondary,Employed,62469.95,8,95.7228,9.0,2024-06-10
+RSP-2025-00604,26,Female,West Bengal,Primary,Retired,13099.75,4,63.9678,9.0,2024-01-20
+RSP-2025-00605,79,Female,Tamil Nadu,Primary,Employed,21214.1,3,36.5832,4.0,2024-02-23
+RSP-2025-00606,68,Male,Tamil Nadu,None,Employed,24383.34,8,33.3256,8.0,2024-05-05
+RSP-2025-00607,19,Male,Karnataka,Secondary,Employed,10858.86,6,59.2119,6.0,2024-06-01
+RSP-2025-00608,71,Female,Uttar Pradesh,Postgraduate,Unemployed,0.0,3,97.0041,1.0,2024-01-15
+RSP-2025-00609,31,Male,Gujarat,Primary,Employed,16804.57,5,79.7807,7.0,2024-06-14
+RSP-2025-00610,61,Male,Bihar,Postgraduate,Retired,23694.45,3,89.3481,1.0,2024-05-30
+RSP-2025-00611,37,Male,Gujarat,Graduate,Employed,20054.98,2,42.8264,3.0,2024-06-28
+RSP-2025-00612,28,Female,Gujarat,Postgraduate,Unemployed,0.0,2,65.6243,8.0,2024-02-26
+RSP-2025-00613,80,Female,West Bengal,Higher Secondary,Employed,26780.27,1,15.5833,9.0,2024-03-19
+RSP-2025-00614,65,Female,Gujarat,Higher Secondary,Unemployed,0.0,3,104.1075,3.0,2024-06-28
+RSP-2025-00615,52,Female,Tamil Nadu,Postgraduate,Self-Employed,21126.69,4,123.8427,1.0,2024-06-11
+RSP-2025-00616,78,Female,West Bengal,Higher Secondary,Self-Employed,16755.8,1,57.0877,1.0,2024-01-14
+RSP-2025-00617,52,Male,Maharashtra,Graduate,Self-Employed,33113.32,6,11.7553,7.0,2024-03-31
+RSP-2025-00618,64,Female,Gujarat,Secondary,Unemployed,0.0,3,29.9413,5.0,2024-01-14
+RSP-2025-00619,44,Male,Gujarat,Higher Secondary,Retired,29464.07,5,85.2143,1.0,2024-04-08
+RSP-2025-00620,65,Female,Maharashtra,Higher Secondary,Student,0.0,4,80.5831,6.0,2024-02-02
+RSP-2025-00621,77,Female,Gujarat,Postgraduate,Self-Employed,,5,100.7105,6.0,2024-06-28
+RSP-2025-00622,66,Male,Maharashtra,Graduate,Employed,29808.38,3,39.5697,4.0,2024-01-01
+RSP-2025-00623,52,Male,West Bengal,Secondary,Employed,13183.36,4,97.9359,7.0,2024-02-03
+RSP-2025-00624,44,Male,Tamil Nadu,Postgraduate,Employed,10301.03,3,89.2742,7.0,2024-01-19
+RSP-2025-00625,65,Male,Maharashtra,Postgraduate,Self-Employed,16637.4,6,47.4623,9.0,2024-05-31
+RSP-2025-00626,19,Male,Uttar Pradesh,None,Employed,,2,72.9584,1.0,2024-01-04
+RSP-2025-00627,43,Female,Maharashtra,Graduate,Employed,49886.73,7,27.3629,5.0,2024-06-12
+RSP-2025-00628,18,Female,Gujarat,Secondary,Student,0.0,2,62.3186,10.0,2024-03-17
+RSP-2025-00629,24,Female,Bihar,Graduate,Student,0.0,3,111.3971,3.0,2024-02-27
+RSP-2025-00630,70,Female,Bihar,Secondary,Retired,23680.75,3,58.7264,7.0,2024-06-08
+RSP-2025-00631,31,Female,West Bengal,Graduate,Employed,32731.89,4,106.6304,4.0,2024-05-16
+RSP-2025-00632,31,Female,Karnataka,Postgraduate,Self-Employed,30154.77,3,78.084,4.0,2024-04-12
+RSP-2025-00633,83,Male,West Bengal,Postgraduate,Employed,8115.52,4,32.4699,1.0,2024-03-07
+RSP-2025-00634,48,Female,Karnataka,Primary,Employed,15082.55,4,77.0367,1.0,2024-04-25
+RSP-2025-00635,20,Male,Bihar,Higher Secondary,Employed,25805.67,2,68.4351,10.0,2024-05-27
+RSP-2025-00636,67,Female,Bihar,None,Employed,38123.61,3,56.1444,2.0,2024-04-29
+RSP-2025-00637,80,Female,Maharashtra,Graduate,Employed,6454.4,3,24.1977,2.0,2024-01-22
+RSP-2025-00638,57,Female,Tamil Nadu,None,Student,0.0,3,58.2131,1.0,2024-04-21
+RSP-2025-00639,37,Male,Uttar Pradesh,Primary,Employed,29524.68,6,18.8313,8.0,2024-03-15
+RSP-2025-00640,69,Female,West Bengal,Higher Secondary,Self-Employed,46734.96,1,21.8091,6.0,2024-06-24
+RSP-2025-00641,30,Female,Gujarat,Graduate,Unemployed,0.0,2,58.1224,6.0,2024-05-15
+RSP-2025-00642,22,Male,Karnataka,Secondary,Employed,39287.88,4,45.4662,10.0,2024-05-22
+RSP-2025-00643,18,Male,Gujarat,Higher Secondary,Unemployed,0.0,1,116.4748,10.0,2024-02-01
+RSP-2025-00644,18,Female,Tamil Nadu,Postgraduate,Employed,7783.79,5,53.5183,9.0,2024-03-07
+RSP-2025-00645,70,Male,Karnataka,Primary,Unemployed,0.0,4,97.2748,5.0,2024-01-04
+RSP-2025-00646,39,Female,West Bengal,Higher Secondary,Employed,51588.84,3,71.2133,4.0,2024-01-30
+RSP-2025-00647,81,Male,Maharashtra,Higher Secondary,Employed,66552.44,11,91.1178,6.0,2024-01-13
+RSP-2025-00648,81,Male,Gujarat,Postgraduate,Employed,42695.85,3,40.2833,8.0,2024-01-21
+RSP-2025-00649,41,Female,Tamil Nadu,Graduate,Unemployed,0.0,6,118.3481,1.0,2024-02-10
+RSP-2025-00650,46,Male,West Bengal,Secondary,Retired,34432.83,5,71.1951,7.0,2024-04-30
+RSP-2025-00651,64,Female,Bihar,Postgraduate,Employed,18742.01,3,105.6866,8.0,2024-01-19
+RSP-2025-00652,75,Male,Bihar,Secondary,Self-Employed,24722.3,4,52.2977,9.0,2024-02-17
+RSP-2025-00653,65,Male,West Bengal,Graduate,Self-Employed,79610.02,7,21.9742,8.0,2024-03-26
+RSP-2025-00654,33,Female,West Bengal,Higher Secondary,Retired,3062297.390442329,7,87.64,7.0,2024-03-03
+RSP-2025-00655,35,Female,West Bengal,Secondary,Student,0.0,7,11.3885,3.0,2024-05-27
+RSP-2025-00656,19,Female,Karnataka,Primary,Unemployed,0.0,2,64.921,2.0,2024-02-06
+RSP-2025-00657,56,Female,West Bengal,Primary,Self-Employed,63673.95,5,32.5758,3.0,2024-01-31
+RSP-2025-00658,75,Female,Gujarat,Postgraduate,Student,0.0,3,82.3345,4.0,2024-03-14
+RSP-2025-00659,36,Male,Tamil Nadu,Graduate,Employed,39373.08,5,122.6436,4.0,2024-05-25
+RSP-2025-00660,35,Male,Karnataka,Postgraduate,Employed,16665.56,4,63.6741,6.0,2024-04-16
+RSP-2025-00661,84,Female,West Bengal,Postgraduate,Employed,10722.25,6,104.1036,7.0,2024-04-12
+RSP-2025-00662,15,Female,Uttar Pradesh,None,Student,0.0,4,68.6413,4.0,2024-04-19
+RSP-2025-00663,19,Female,Uttar Pradesh,Postgraduate,Student,,6,67.2737,10.0,2024-01-20
+RSP-2025-00664,26,Male,Tamil Nadu,None,Employed,15534.03,5,117.0335,6.0,2024-05-18
+RSP-2025-00665,60,Male,Bihar,Primary,Unemployed,0.0,2,112.4011,9.0,2024-03-26
+RSP-2025-00666,48,Female,Maharashtra,Primary,Unemployed,0.0,1,100.4742,6.0,2024-02-13
+RSP-2025-00667,63,Female,Maharashtra,Postgraduate,Employed,25416.84,1,44.4213,3.0,2024-03-22
+RSP-2025-00668,59,Female,Bihar,Primary,Retired,38422.86,3,72.9035,1.0,2024-03-04
+RSP-2025-00669,41,Female,Karnataka,Graduate,Employed,49873.07,5,36.1362,10.0,2024-05-01
+RSP-2025-00670,40,Female,Karnataka,None,Employed,25884.0,4,61.3285,10.0,2024-06-10
+RSP-2025-00671,61,Male,Karnataka,None,Unemployed,0.0,4,65.9424,5.0,2024-03-27
+RSP-2025-00672,70,Male,Maharashtra,Postgraduate,Self-Employed,31124.56,4,105.7228,10.0,2024-03-05
+RSP-2025-00673,77,Male,Uttar Pradesh,Primary,Employed,21478.82,3,113.0952,10.0,2024-02-24
+RSP-2025-00674,62,Male,Maharashtra,Secondary,Self-Employed,,6,57.974,3.0,2024-03-14
+RSP-2025-00675,75,Female,Gujarat,None,Unemployed,0.0,5,12.5272,8.0,2024-04-26
+RSP-2025-00676,40,Male,West Bengal,Postgraduate,Employed,21619.45,6,109.1731,10.0,2024-05-08
+RSP-2025-00677,50,Female,Karnataka,Postgraduate,Employed,,2,30.4549,1.0,2024-06-14
+RSP-2025-00678,15,Male,Uttar Pradesh,Graduate,Unemployed,0.0,5,81.7055,2.0,2024-05-16
+RSP-2025-00679,22,Male,Tamil Nadu,Higher Secondary,Employed,12499.08,6,13.3592,3.0,2024-04-04
+RSP-2025-00680,66,Male,Tamil Nadu,Higher Secondary,Retired,30090.52,3,56.2435,3.0,2024-05-24
+RSP-2025-00681,61,Male,West Bengal,None,Student,4162.662,5,123.3925,8.0,2024-04-08
+RSP-2025-00682,70,Female,Uttar Pradesh,Graduate,Retired,72636.32,5,22.0294,5.0,2024-04-21
+RSP-2025-00683,28,Male,Maharashtra,Graduate,Employed,47900.33,6,59.0129,8.0,2024-02-21
+RSP-2025-00684,42,Female,Maharashtra,Graduate,Retired,44114.79,3,45.6687,6.0,2024-05-25
+RSP-2025-00685,16,Male,Gujarat,None,Employed,27974.7,6,114.1326,2.0,2024-02-02
+RSP-2025-00686,40,Male,Gujarat,Higher Secondary,Employed,34627.48,11,110.0394,4.0,2024-01-04
+RSP-2025-00687,28,Male,Maharashtra,Graduate,Employed,60607.76,6,37.7165,9.0,2024-03-27
+RSP-2025-00688,73,Female,Tamil Nadu,Primary,Employed,11312.85,5,19.796,4.0,2024-03-15
+RSP-2025-00689,70,Female,Karnataka,Postgraduate,Self-Employed,21436.8,5,82.3073,5.0,2024-06-28
+RSP-2025-00690,21,Male,Tamil Nadu,Postgraduate,Unemployed,0.0,5,49.0142,5.0,2024-01-09
+RSP-2025-00691,17,Male,Gujarat,Secondary,Employed,34421.94,2,87.4537,10.0,2024-03-04
+RSP-2025-00692,37,Female,West Bengal,Secondary,Self-Employed,59852.86,11,14.1777,8.0,2024-01-30
+RSP-2025-00693,32,Male,Maharashtra,None,Employed,18250.85,4,25.7742,6.0,2024-05-15
+RSP-2025-00694,52,Male,Gujarat,None,Unemployed,0.0,2,89.0896,10.0,2024-05-12
+RSP-2025-00695,29,Female,Gujarat,Postgraduate,Employed,20579.62,3,34.8164,7.0,2024-03-16
+RSP-2025-00696,78,Female,Karnataka,Primary,Student,0.0,3,108.6938,6.0,2024-05-08
+RSP-2025-00697,42,Male,Maharashtra,Higher Secondary,Student,0.0,3,17.2087,5.0,2024-01-15
+RSP-2025-00698,53,Female,Karnataka,Higher Secondary,Unemployed,0.0,3,35.1727,5.0,2024-03-29
+RSP-2025-00699,71,Female,Maharashtra,,Employed,22426.63,9,124.8351,3.0,2024-06-14
+RSP-2025-00700,31,Male,Karnataka,Primary,Employed,11715.05,4,60.0872,7.0,2024-06-18
+RSP-2025-00701,58,Female,Tamil Nadu,None,Student,0.0,6,90.9896,10.0,2024-05-07
+RSP-2025-00702,39,Female,West Bengal,Higher Secondary,Employed,15642.03,1,31.4149,5.0,2024-06-22
+RSP-2025-00703,31,Male,West Bengal,None,Employed,111264.2,4,80.33,7.0,2024-01-26
+RSP-2025-00704,27,Male,Maharashtra,Graduate,Employed,38981.0,7,93.6391,2.0,2024-03-01
+RSP-2025-00705,39,Male,Uttar Pradesh,None,Unemployed,0.0,5,46.5076,9.0,2024-05-02
+RSP-2025-00706,82,Female,Bihar,Postgraduate,Unemployed,0.0,1,105.4087,8.0,2024-03-07
+RSP-2025-00707,24,Male,Gujarat,None,Student,2532.599,3,79.5913,5.0,2024-05-29
+RSP-2025-00708,81,Female,Gujarat,Postgraduate,Employed,23024.72,7,55.0546,2.0,2024-01-26
+RSP-2025-00709,32,Female,Maharashtra,Primary,Employed,55600.19,1,74.3501,6.0,2024-03-23
+RSP-2025-00710,48,Male,Karnataka,Higher Secondary,Student,0.0,4,76.5391,8.0,2024-04-17
+RSP-2025-00711,22,Female,Uttar Pradesh,Secondary,Student,0.0,3,29.4538,7.0,2024-04-20
+RSP-2025-00712,54,Male,Tamil Nadu,Secondary,Employed,91930.34,5,56.6129,8.0,2024-02-29
+RSP-2025-00713,56,Female,Karnataka,Higher Secondary,Unemployed,0.0,2,49.8228,4.0,2024-02-08
+RSP-2025-00714,55,Female,Karnataka,Secondary,Employed,44344.58,4,56.4034,3.0,2024-05-02
+RSP-2025-00715,20,Male,Maharashtra,None,Retired,18117.85,4,97.6472,7.0,2024-02-05
+RSP-2025-00716,66,Male,Maharashtra,Primary,Employed,34064.98,4,65.7506,2.0,2024-01-21
+RSP-2025-00717,40,Male,Gujarat,Primary,Retired,32932.7,6,118.1662,5.0,2024-06-17
+RSP-2025-00718,78,Male,Maharashtra,Higher Secondary,Self-Employed,7877.2,8,44.1259,7.0,2024-04-27
+RSP-2025-00719,73,Male,Maharashtra,Secondary,Unemployed,0.0,5,58.0981,1.0,2024-02-17
+RSP-2025-00720,70,Male,Maharashtra,None,Employed,62250.32,3,100.6066,4.0,2024-01-26
+RSP-2025-00721,73,Other,Gujarat,Primary,Unemployed,2078.16,4,73.0198,2.0,2024-02-05
+RSP-2025-00722,84,Male,Tamil Nadu,Primary,Employed,13141.42,4,73.1347,6.0,2024-05-31
+RSP-2025-00723,47,Male,Tamil Nadu,Graduate,Employed,33722.31,4,16.6074,1.0,2024-05-07
+RSP-2025-00724,67,Female,Bihar,Graduate,Self-Employed,28462.81,7,56.1397,7.0,2024-05-28
+RSP-2025-00725,36,Male,Bihar,Primary,Retired,33900.49,5,41.499,3.0,2024-05-25
+RSP-2025-00726,35,Female,Maharashtra,Higher Secondary,Unemployed,0.0,5,124.9239,1.0,2024-01-15
+RSP-2025-00727,84,Female,Bihar,Postgraduate,Self-Employed,37386.19,6,45.8067,8.0,2024-03-19
+RSP-2025-00728,84,Female,Gujarat,Postgraduate,Employed,68923.24,2,111.7749,7.0,2024-05-13
+RSP-2025-00729,18,Male,Tamil Nadu,None,Employed,38920.14,7,87.9288,2.0,2024-06-19
+RSP-2025-00730,76,Male,Karnataka,Primary,Employed,13598.62,3,49.5349,7.0,2024-06-07
+RSP-2025-00731,76,Male,Tamil Nadu,Primary,Self-Employed,65229.42,5,72.7347,3.0,2024-01-28
+RSP-2025-00732,38,Female,Tamil Nadu,Primary,Retired,78151.1,3,106.7414,9.0,2024-05-15
+RSP-2025-00733,69,Male,Gujarat,Higher Secondary,Self-Employed,208738.36,3,111.6457,8.0,2024-06-05
+RSP-2025-00734,23,Male,Bihar,Graduate,Employed,12961.37,6,28.8651,5.0,2024-05-28
+RSP-2025-00735,17,Other,Karnataka,Primary,Employed,31504.11,7,49.3811,7.0,2024-04-29
+RSP-2025-00736,45,Male,Gujarat,Primary,Unemployed,0.0,1,48.8831,3.0,2024-03-28
+RSP-2025-00737,54,Male,Maharashtra,Secondary,Employed,38543.66,2,15.3141,1.0,2024-06-26
+RSP-2025-00738,50,Male,West Bengal,Higher Secondary,Student,0.0,4,78.9982,1.0,2024-01-31
+RSP-2025-00739,38,Female,Tamil Nadu,None,Student,0.0,3,108.3769,2.0,2024-02-16
+RSP-2025-00740,20,Male,West Bengal,Primary,Self-Employed,16260.6,4,54.1903,8.0,2024-02-03
+RSP-2025-00741,80,Female,Gujarat,Secondary,Employed,,3,95.2341,1.0,2024-01-02
+RSP-2025-00742,18,Female,Gujarat,,Employed,19804.78,8,82.3717,5.0,2024-04-15
+RSP-2025-00743,20,Male,Gujarat,None,Employed,,6,53.5118,9.0,2024-04-03
+RSP-2025-00744,65,Female,West Bengal,Primary,Employed,43836.17,3,26.6513,9.0,2024-03-12
+RSP-2025-00745,76,Male,Gujarat,Primary,Employed,7028.27,1,91.7176,2.0,2024-02-21
+RSP-2025-00746,71,Male,Maharashtra,Secondary,Self-Employed,27405.46,2,108.3477,7.0,2024-05-14
+RSP-2025-00747,80,Female,Gujarat,Higher Secondary,Self-Employed,,3,89.0303,1.0,2024-05-26
+RSP-2025-00748,22,Female,Uttar Pradesh,Primary,Employed,,6,12.5471,3.0,2024-03-30
+RSP-2025-00749,40,Female,Bihar,Postgraduate,Employed,78291.62,4,35.2587,6.0,2024-04-01
+RSP-2025-00750,65,Female,West Bengal,Primary,Employed,34010.38,3,18.4555,9.0,2024-05-22
+RSP-2025-00751,59,Male,Uttar Pradesh,Postgraduate,Employed,15347.83,9,75.8092,10.0,2024-03-18
+RSP-2025-00752,58,Male,Gujarat,None,Student,0.0,7,97.1167,2.0,2024-06-24
+RSP-2025-00753,19,Male,Maharashtra,None,Employed,27220.1,4,23.1613,7.0,2024-05-04
+RSP-2025-00754,84,Male,Tamil Nadu,Graduate,Employed,36578.27,1,106.4897,4.0,2024-05-21
+RSP-2025-00755,40,Male,Karnataka,Graduate,Employed,11065.0,2,74.1058,2.0,2024-05-10
+RSP-2025-00756,82,Male,Bihar,Postgraduate,Student,0.0,2,89.5015,3.0,2024-02-19
+RSP-2025-00757,33,Male,Karnataka,,Unemployed,463.85,4,121.7255,6.0,2024-04-02
+RSP-2025-00758,34,Male,Gujarat,Primary,Employed,17864.58,7,20.0815,10.0,2024-05-03
+RSP-2025-00759,26,Female,Bihar,Primary,Unemployed,0.0,3,113.6902,9.0,2024-02-23
+RSP-2025-00760,61,Female,Bihar,Graduate,Self-Employed,40605.65,4,24.9388,8.0,2024-05-13
+RSP-2025-00761,15,Male,Maharashtra,Postgraduate,Retired,27301.86,4,55.4938,10.0,2024-06-25
+RSP-2025-00762,28,Female,Bihar,Primary,Employed,10790.1,4,107.9897,9.0,2024-05-30
+RSP-2025-00763,78,Female,West Bengal,Primary,Student,0.0,5,114.2661,4.0,2024-03-18
+RSP-2025-00764,52,Male,Uttar Pradesh,Higher Secondary,Retired,30611.84,7,68.4796,4.0,2024-03-18
+RSP-2025-00765,51,Female,Uttar Pradesh,Secondary,Retired,25555.46,3,78.525,9.0,2024-01-20
+RSP-2025-00766,25,Female,Uttar Pradesh,Graduate,Self-Employed,18463.84,3,91.5829,8.0,2024-03-31
+RSP-2025-00767,17,Female,West Bengal,Graduate,Self-Employed,19681.97,3,105.8509,2.0,2024-04-08
+RSP-2025-00768,47,Male,Karnataka,Secondary,Employed,42298.6,6,24.413,8.0,2024-06-21
+RSP-2025-00769,20,Female,Maharashtra,Primary,Self-Employed,19216.02,5,103.2529,1.0,2024-02-25
+RSP-2025-00770,64,Male,Bihar,Higher Secondary,Unemployed,0.0,6,65.6061,9.0,2024-01-02
+RSP-2025-00771,24,Female,West Bengal,Higher Secondary,Self-Employed,110244.82,1,62.0964,9.0,2024-04-14
+RSP-2025-00772,19,Female,Uttar Pradesh,Graduate,Employed,10663.76,2,59.0365,8.0,2024-06-21
+RSP-2025-00773,37,Female,Gujarat,Higher Secondary,Self-Employed,8073.18,3,68.8047,5.0,2024-06-16
+RSP-2025-00774,24,Female,Tamil Nadu,None,Student,0.0,3,118.7083,5.0,2024-04-21
+RSP-2025-00775,58,Female,Bihar,Secondary,Employed,17307.27,6,73.2693,3.0,2024-01-24
+RSP-2025-00776,16,Male,West Bengal,Primary,Student,0.0,3,119.6388,5.0,2024-06-05
+RSP-2025-00777,27,Male,West Bengal,None,Unemployed,0.0,4,31.1432,4.0,2024-04-18
+RSP-2025-00778,54,Female,Maharashtra,Secondary,Student,0.0,1,93.4136,1.0,2024-03-08
+RSP-2025-00779,16,Male,Maharashtra,Postgraduate,Employed,76042.66,1,103.5014,9.0,2024-04-23
+RSP-2025-00780,79,Male,West Bengal,Graduate,Employed,45314.55,7,88.2603,10.0,2024-03-24
+RSP-2025-00781,77,Male,Uttar Pradesh,Higher Secondary,Retired,47119.64,7,79.9926,4.0,2024-02-18
+RSP-2025-00782,31,Male,Tamil Nadu,Postgraduate,Employed,10715.56,2,75.1711,3.0,2024-02-01
+RSP-2025-00783,23,Female,Bihar,Higher Secondary,Student,0.0,5,109.0765,6.0,2024-03-01
+RSP-2025-00784,29,Female,Maharashtra,None,Unemployed,0.0,3,104.5785,1.0,2024-06-18
+RSP-2025-00785,38,Female,Bihar,Primary,Unemployed,0.0,4,24.5021,5.0,2024-05-08
+RSP-2025-00786,52,Female,Uttar Pradesh,Primary,Employed,50104.05,1,107.6633,7.0,2024-04-11
+RSP-2025-00787,49,Male,Bihar,Primary,Unemployed,0.0,3,57.9109,2.0,2024-02-04
+RSP-2025-00788,63,Male,Gujarat,Higher Secondary,Employed,23295.52,5,39.5483,10.0,2024-02-20
+RSP-2025-00789,83,Female,Maharashtra,Postgraduate,Employed,26516.03,2,110.0885,9.0,2024-02-14
+RSP-2025-00790,76,Male,Uttar Pradesh,Primary,Employed,17192.43,4,59.9668,6.0,2024-03-17
+RSP-2025-00791,74,Female,Uttar Pradesh,Postgraduate,Employed,30733.03,5,103.0578,2.0,2024-04-22
+RSP-2025-00792,64,Female,Tamil Nadu,Higher Secondary,Retired,44259.3,2,40.6597,8.0,2024-03-05
+RSP-2025-00793,23,Male,Tamil Nadu,None,Retired,9411.37,5,10.9499,8.0,2024-01-14
+RSP-2025-00794,48,Female,Gujarat,Postgraduate,Employed,32688.25,4,67.2301,1.0,2024-04-02
+RSP-2025-00795,49,Female,Uttar Pradesh,None,Self-Employed,49319.89,3,21.9761,1.0,2024-05-10
+RSP-2025-00796,15,Female,Karnataka,Higher Secondary,Employed,,5,96.876,1.0,2024-01-24
+RSP-2025-00797,54,Male,Uttar Pradesh,Higher Secondary,Self-Employed,42423.4,7,42.1106,4.0,2024-03-05
+RSP-2025-00798,78,Male,Tamil Nadu,Graduate,Student,16763.183,5,61.2974,4.0,2024-06-24
+RSP-2025-00799,36,Female,Karnataka,Higher Secondary,Retired,25139.04,4,20.4653,8.0,2024-05-17
+RSP-2025-00800,74,Male,Maharashtra,Higher Secondary,Employed,34740.09,4,43.3225,1.0,2024-01-13
+RSP-2025-00801,78,Male,Maharashtra,Secondary,Self-Employed,16651.62,3,99.9806,10.0,2024-05-21
+RSP-2025-00802,25,Female,Bihar,Primary,Employed,30267.0,2,27.8568,3.0,2024-04-09
+RSP-2025-00803,28,Male,West Bengal,Graduate,Retired,36285.61,7,84.5998,1.0,2024-05-17
+RSP-2025-00804,74,Female,Tamil Nadu,Graduate,Employed,30535.57,2,115.5453,,2024-06-16
+RSP-2025-00805,44,Female,West Bengal,Graduate,Self-Employed,13866.04,6,88.3413,10.0,2024-05-30
+RSP-2025-00806,49,Female,Karnataka,Secondary,Self-Employed,30765.07,1,103.362,9.0,2024-04-08
+RSP-2025-00807,51,Male,Tamil Nadu,None,Self-Employed,69593.56,1,22.9773,,2024-02-24
+RSP-2025-00808,19,Female,Gujarat,Higher Secondary,Employed,,3,39.2088,8.0,2024-03-03
+RSP-2025-00809,40,Male,Uttar Pradesh,Primary,Retired,50276.43,3,112.9247,1.0,2024-03-11
+RSP-2025-00810,76,Male,Gujarat,Postgraduate,Employed,23062.02,4,92.3796,5.0,2024-06-18
+RSP-2025-00811,18,Female,Karnataka,,Self-Employed,43802.02,2,83.7289,2.0,2024-04-08
+RSP-2025-00812,56,Male,Tamil Nadu,Higher Secondary,Employed,32258.09,5,86.5013,1.0,2024-03-06
+RSP-2025-00813,32,Male,Karnataka,Secondary,Employed,14500.06,7,57.926,3.0,2024-03-19
+RSP-2025-00814,54,Female,Uttar Pradesh,Higher Secondary,Unemployed,0.0,4,15.6017,7.0,2024-03-13
+RSP-2025-00815,53,Male,Maharashtra,Higher Secondary,Employed,14120.7,6,100.3186,1.0,2024-02-16
+RSP-2025-00816,28,Male,Maharashtra,Secondary,Employed,17829.82,4,88.2127,2.0,2024-03-21
+RSP-2025-00817,46,Male,Karnataka,Graduate,Employed,30426.32,1,64.6361,2.0,2024-05-05
+RSP-2025-00818,65,Female,West Bengal,,Employed,32637.22,2,113.5225,4.0,2024-02-21
+RSP-2025-00819,52,Female,Tamil Nadu,Primary,Self-Employed,12419.2,7,48.9903,3.0,2024-05-25
+RSP-2025-00820,37,Male,Tamil Nadu,Primary,Student,0.0,3,44.1998,3.0,2024-05-25
+RSP-2025-00821,77,Male,Maharashtra,Graduate,Employed,39019.0,7,110.4352,10.0,2024-05-31
+RSP-2025-00822,29,Male,Bihar,None,Employed,2736083.917998839,7,101.7551,5.0,2024-01-23
+RSP-2025-00823,39,Male,Gujarat,Postgraduate,Employed,9902.77,6,69.4652,3.0,2024-05-19
+RSP-2025-00824,31,Female,Bihar,Higher Secondary,Employed,24484.9,6,25.4691,7.0,2024-05-30
+RSP-2025-00825,80,Male,Uttar Pradesh,Postgraduate,Self-Employed,20133.42,1,35.1257,5.0,2024-01-21
+RSP-2025-00826,67,Male,Gujarat,Higher Secondary,Self-Employed,28956.25,8,85.6381,4.0,2024-03-04
+RSP-2025-00827,65,Female,Gujarat,Graduate,Employed,21247.07,7,54.5872,3.0,2024-03-12
+RSP-2025-00828,53,Female,Karnataka,Primary,Employed,7296.52,4,106.2762,,2024-06-10
+RSP-2025-00829,65,Female,Maharashtra,None,Employed,20901.46,6,119.2698,2.0,2024-05-09
+RSP-2025-00830,84,Male,Bihar,Primary,Student,0.0,1,102.7454,1.0,2024-03-09
+RSP-2025-00831,20,Male,Bihar,Postgraduate,Retired,40614.47,3,53.729,3.0,2024-06-07
+RSP-2025-00832,81,Male,Maharashtra,Primary,Employed,17088.66,3,100.8046,2.0,2024-03-08
+RSP-2025-00833,21,Male,Bihar,Graduate,Employed,80108.6,2,50.7401,1.0,2024-05-26
+RSP-2025-00834,65,Female,Maharashtra,None,Student,0.0,5,29.633,1.0,2024-05-07
+RSP-2025-00835,56,Female,Karnataka,Postgraduate,Retired,63086.3,5,14.3235,2.0,2024-04-16
+RSP-2025-00836,78,Female,West Bengal,None,Employed,23253.08,3,54.6646,9.0,2024-04-18
+RSP-2025-00837,29,Female,Gujarat,Higher Secondary,Employed,47038.9,6,113.9575,5.0,2024-03-12
+RSP-2025-00838,43,Male,Karnataka,Primary,Employed,,1,37.864,9.0,2024-04-12
+RSP-2025-00839,47,Female,Tamil Nadu,None,Unemployed,0.0,5,34.1458,8.0,2024-05-20
+RSP-2025-00840,41,Male,Uttar Pradesh,Secondary,Employed,20914.85,1,121.5445,6.0,2024-03-05
+RSP-2025-00841,50,Female,West Bengal,Primary,Employed,13172.63,4,13.363,1.0,2024-05-13
+RSP-2025-00842,43,Male,Tamil Nadu,Higher Secondary,Unemployed,6773.293,3,100.4721,10.0,2024-04-21
+RSP-2025-00843,52,Male,Gujarat,None,Employed,24990.16,6,47.2969,5.0,2024-06-03
+RSP-2025-00844,71,Male,Bihar,Postgraduate,Self-Employed,31070.47,6,14.7924,1.0,2024-03-19
+RSP-2025-00845,41,Female,Maharashtra,Higher Secondary,Employed,60029.34,1,115.5884,7.0,2024-06-28
+RSP-2025-00846,69,Male,Gujarat,Secondary,Employed,,3,26.489,10.0,2024-05-05
+RSP-2025-00847,47,Male,Karnataka,None,Unemployed,0.0,4,73.6787,8.0,2024-04-30
+RSP-2025-00848,82,Male,Uttar Pradesh,Graduate,Employed,18335.02,4,41.8792,8.0,2024-03-27
+RSP-2025-00849,80,Female,Karnataka,Primary,Retired,24688.43,5,17.9646,7.0,2024-02-17
+RSP-2025-00850,24,Female,West Bengal,Postgraduate,Unemployed,0.0,5,16.2161,2.0,2024-03-28
+RSP-2025-00851,19,Female,West Bengal,Graduate,Employed,10146.21,7,23.7312,5.0,2024-03-08
+RSP-2025-00852,52,Male,Uttar Pradesh,None,Self-Employed,16216.04,2,18.6715,4.0,2024-06-20
+RSP-2025-00853,27,Female,Tamil Nadu,None,Employed,64744.07,4,97.5839,5.0,2024-04-10
+RSP-2025-00854,45,Male,Tamil Nadu,Higher Secondary,Retired,47859.47,7,66.0973,10.0,2024-01-17
+RSP-2025-00855,61,Female,West Bengal,None,Employed,25829.8,4,49.7611,9.0,2024-02-07
+RSP-2025-00856,66,Female,West Bengal,Postgraduate,Unemployed,0.0,5,58.4032,4.0,2024-05-17
+RSP-2025-00857,70,Male,Bihar,Graduate,Employed,,6,116.8644,8.0,2024-02-23
+RSP-2025-00858,29,Male,Maharashtra,Postgraduate,Employed,64976.39,4,114.7811,8.0,2024-05-13
+RSP-2025-00859,43,Male,Bihar,Secondary,Student,0.0,8,92.445,2.0,2024-05-13
+RSP-2025-00860,22,Male,Bihar,Secondary,Student,,1,111.7961,6.0,2024-02-21
+RSP-2025-00861,19,Male,Tamil Nadu,Primary,Employed,56665.43,2,47.0997,5.0,2024-01-15
+RSP-2025-00862,43,Female,Uttar Pradesh,Primary,Employed,16231.49,1,54.137,2.0,2024-03-08
+RSP-2025-00863,61,Male,Tamil Nadu,Secondary,Student,0.0,1,80.77,10.0,2024-04-21
+RSP-2025-00864,82,Male,Maharashtra,None,Retired,9948.73,6,81.9052,4.0,2024-04-13
+RSP-2025-00865,59,Male,Karnataka,Postgraduate,Employed,77595.71,8,65.6546,7.0,2024-01-07
+RSP-2025-00866,16,Male,West Bengal,Secondary,Unemployed,0.0,4,56.3753,1.0,2024-02-20
+RSP-2025-00867,41,Female,West Bengal,Primary,Employed,22976.93,2,123.4176,9.0,2024-02-27
+RSP-2025-00868,50,Male,Maharashtra,Secondary,Student,0.0,8,104.5187,10.0,2024-04-18
+RSP-2025-00869,50,Female,Bihar,None,Employed,20017.93,4,60.3052,1.0,2024-04-20
+RSP-2025-00870,40,Female,Uttar Pradesh,Secondary,Employed,13685.96,3,93.775,5.0,2024-06-02
+RSP-2025-00871,57,Female,West Bengal,Postgraduate,Self-Employed,18124.68,9,41.3648,7.0,2024-01-31
+RSP-2025-00872,41,Female,Gujarat,Graduate,Employed,24606.06,2,21.9694,8.0,2024-04-01
+RSP-2025-00873,83,Male,Bihar,None,Unemployed,0.0,5,50.8534,2.0,2024-04-15
+RSP-2025-00874,34,Female,West Bengal,Primary,Employed,30789.91,5,56.6404,4.0,2024-01-13
+RSP-2025-00875,25,Male,Gujarat,Postgraduate,Employed,32859.29,5,12.3935,2.0,2024-05-25
+RSP-2025-00876,52,Male,Maharashtra,Secondary,Employed,13199.21,6,103.7937,4.0,2024-04-28
+RSP-2025-00877,20,Female,Maharashtra,,Unemployed,0.0,4,51.6276,6.0,2024-05-20
+RSP-2025-00878,37,Female,Bihar,Graduate,Employed,,2,76.9579,6.0,2024-04-24
+RSP-2025-00879,61,Female,West Bengal,Primary,Unemployed,,3,18.9688,,2024-05-31
+RSP-2025-00880,60,Male,Tamil Nadu,Primary,Student,0.0,2,30.5371,4.0,2024-02-26
+RSP-2025-00881,26,Male,Gujarat,Higher Secondary,Self-Employed,22971.51,2,112.3699,4.0,2024-05-05
+RSP-2025-00882,27,Female,Uttar Pradesh,Primary,Employed,26943.23,6,80.1947,1.0,2024-06-05
+RSP-2025-00883,76,Male,West Bengal,Graduate,Employed,53945.92,5,119.3075,2.0,2024-02-23
+RSP-2025-00884,74,Female,Uttar Pradesh,Higher Secondary,Employed,61496.16,1,124.8569,3.0,2024-05-12
+RSP-2025-00885,57,Female,West Bengal,Higher Secondary,Employed,,4,53.078,5.0,2024-06-11
+RSP-2025-00886,82,Male,Tamil Nadu,Secondary,Employed,20902.88,8,44.713,8.0,2024-01-19
+RSP-2025-00887,19,Male,Tamil Nadu,Secondary,Self-Employed,25942.86,3,108.7818,6.0,2024-03-17
+RSP-2025-00888,51,Male,Bihar,Primary,Employed,33512.45,5,124.841,3.0,2024-03-09
+RSP-2025-00889,45,Male,Bihar,Higher Secondary,Employed,48018.78,5,82.5939,6.0,2024-02-13
+RSP-2025-00890,23,Female,Tamil Nadu,Secondary,Employed,26977.26,5,101.5436,7.0,2024-02-07
+RSP-2025-00891,65,Male,Karnataka,Graduate,Self-Employed,40226.29,3,100.0099,6.0,2024-03-02
+RSP-2025-00892,43,Female,Tamil Nadu,Secondary,Employed,,7,51.1864,10.0,2024-01-22
+RSP-2025-00893,54,Male,Maharashtra,None,Self-Employed,34470.23,5,76.254,6.0,2024-03-13
+RSP-2025-00894,55,Other,Maharashtra,None,Employed,32944.33,2,105.885,1.0,2024-06-16
+RSP-2025-00895,25,Male,Karnataka,Secondary,Student,0.0,6,89.289,3.0,2024-06-02
+RSP-2025-00896,37,Male,Gujarat,Higher Secondary,Student,2137077.4580654856,3,12.9233,7.0,2024-05-04
+RSP-2025-00897,15,Male,Uttar Pradesh,Higher Secondary,Employed,34628.91,3,49.0528,4.0,2024-01-05
+RSP-2025-00898,60,Female,West Bengal,Postgraduate,Employed,,3,27.0425,4.0,2024-02-23
+RSP-2025-00899,35,Female,West Bengal,None,Employed,19252.4,5,37.1753,7.0,2024-03-26
+RSP-2025-00900,50,Female,Karnataka,Graduate,Employed,31517.39,5,114.1785,9.0,2024-06-25
+RSP-2025-00901,68,Male,Maharashtra,Higher Secondary,Self-Employed,25867.37,1,14.7243,2.0,2024-01-03
+RSP-2025-00902,71,Male,Bihar,Primary,Student,0.0,4,35.6672,9.0,2024-02-07
+RSP-2025-00903,15,Female,West Bengal,None,Self-Employed,28451.95,7,45.9457,3.0,2024-05-21
+RSP-2025-00904,77,Male,Maharashtra,Graduate,Student,0.0,4,81.1332,6.0,2024-06-23
+RSP-2025-00905,68,Male,Gujarat,Graduate,Employed,51205.8,5,71.6546,4.0,2024-05-21
+RSP-2025-00906,69,Other,Uttar Pradesh,Higher Secondary,Employed,23361.97,2,35.4919,1.0,2024-03-13
+RSP-2025-00907,54,Female,Gujarat,Graduate,Self-Employed,37882.66,2,29.3056,9.0,2024-02-07
+RSP-2025-00908,29,Female,Karnataka,Higher Secondary,Employed,19725.81,4,37.6134,6.0,2024-06-20
+RSP-2025-00909,35,Female,Tamil Nadu,Secondary,Self-Employed,17634.5,4,68.0396,8.0,2024-05-04
+RSP-2025-00910,61,Male,Tamil Nadu,None,Employed,28416.05,4,41.5499,2.0,2024-03-10
+RSP-2025-00911,67,Male,Tamil Nadu,Postgraduate,Employed,,5,119.0005,7.0,2024-03-05
+RSP-2025-00912,23,Female,Gujarat,Secondary,Retired,36749.78,7,63.6126,6.0,2024-01-25
+RSP-2025-00913,66,Female,West Bengal,None,Employed,,2,17.2321,2.0,2024-01-16
+RSP-2025-00914,71,Male,Uttar Pradesh,Higher Secondary,Retired,8154.83,3,94.001,2.0,2024-01-15
+RSP-2025-00915,40,Male,Tamil Nadu,None,Retired,2410894.743667318,6,48.1528,4.0,2024-05-10
+RSP-2025-00916,55,Male,Karnataka,Higher Secondary,Self-Employed,45070.45,7,85.3245,,2024-02-06
+RSP-2025-00917,49,Female,Karnataka,Secondary,Self-Employed,22174.66,6,42.5136,3.0,2024-05-04
+RSP-2025-00918,77,Female,Tamil Nadu,Primary,Unemployed,0.0,5,75.8502,8.0,2024-04-22
+RSP-2025-00919,39,Female,Tamil Nadu,Primary,Student,0.0,3,98.9115,7.0,2024-06-14
+RSP-2025-00920,52,Male,Uttar Pradesh,None,Employed,16936.35,3,116.757,2.0,2024-01-01
+RSP-2025-00921,16,Female,Tamil Nadu,Primary,Unemployed,986.924,5,40.3991,3.0,2024-03-11
+RSP-2025-00922,21,Female,Uttar Pradesh,Higher Secondary,Self-Employed,24235.89,3,48.8411,10.0,2024-04-12
+RSP-2025-00923,48,Male,Karnataka,Graduate,Employed,19639.28,4,63.6585,9.0,2024-01-19
+RSP-2025-00924,31,Male,Tamil Nadu,Higher Secondary,Employed,14356.24,8,116.6615,5.0,2024-02-21
+RSP-2025-00925,57,Male,Gujarat,Graduate,Employed,24004.68,3,113.7088,2.0,2024-04-27
+RSP-2025-00926,73,Male,Bihar,Secondary,Unemployed,0.0,5,20.7911,3.0,2024-06-06
+RSP-2025-00927,65,Female,Gujarat,Postgraduate,Student,0.0,2,25.606,8.0,2024-04-16
+RSP-2025-00928,68,Male,Karnataka,Graduate,Employed,32844.44,6,67.2358,4.0,2024-02-24
+RSP-2025-00929,38,Female,Uttar Pradesh,Primary,Retired,87440.6,5,22.7079,2.0,2024-01-14
+RSP-2025-00930,39,Male,Gujarat,Higher Secondary,Self-Employed,21528.41,7,50.069,2.0,2024-01-13
+RSP-2025-00931,66,Male,Uttar Pradesh,Secondary,Student,0.0,8,27.4901,6.0,2024-03-24
+RSP-2025-00932,84,Male,Gujarat,Primary,Unemployed,0.0,5,83.3266,8.0,2024-03-30
+RSP-2025-00933,47,Male,Gujarat,Secondary,Self-Employed,15519.71,2,119.2172,7.0,2024-01-27
+RSP-2025-00934,63,Male,Uttar Pradesh,Postgraduate,Employed,18394.56,4,124.626,4.0,2024-03-29
+RSP-2025-00935,43,Female,West Bengal,Higher Secondary,Student,0.0,4,53.4651,2.0,2024-05-16
+RSP-2025-00936,77,Female,Gujarat,None,Employed,33984.48,5,79.0869,9.0,2024-02-10
+RSP-2025-00937,36,Female,Tamil Nadu,Higher Secondary,Student,,4,108.5426,4.0,2024-02-17
+RSP-2025-00938,40,Male,Bihar,Postgraduate,Retired,16891.6,5,23.9494,9.0,2024-01-12
+RSP-2025-00939,42,Male,Karnataka,Higher Secondary,Employed,20520.78,4,89.4551,5.0,2024-05-17
+RSP-2025-00940,63,Male,West Bengal,None,Employed,25821.69,5,57.3126,7.0,2024-01-06
+RSP-2025-00941,63,Female,Uttar Pradesh,Graduate,Self-Employed,34796.4,8,34.1037,5.0,2024-06-10
+RSP-2025-00942,34,Male,West Bengal,Secondary,Employed,31930.22,7,56.6153,2.0,2024-06-28
+RSP-2025-00943,77,Male,Maharashtra,None,Student,0.0,6,19.1975,6.0,2024-02-10
+RSP-2025-00944,75,Female,Maharashtra,Primary,Employed,5557.17,7,90.1241,7.0,2024-01-06
+RSP-2025-00945,63,Male,Gujarat,Postgraduate,Employed,5701.56,3,39.439,6.0,2024-05-09
+RSP-2025-00946,15,Male,Gujarat,Graduate,Retired,19490.44,5,46.1559,3.0,2024-01-15
+RSP-2025-00947,27,Male,Tamil Nadu,Primary,Self-Employed,54898.71,2,24.3638,10.0,2024-05-24
+RSP-2025-00948,65,Female,Bihar,,Student,0.0,4,109.5035,8.0,2024-01-16
+RSP-2025-00949,70,Female,Karnataka,Postgraduate,Employed,3808.68,3,66.9994,3.0,2024-06-04
+RSP-2025-00950,76,Male,West Bengal,Graduate,Self-Employed,38998.04,3,76.0108,5.0,2024-03-25
+RSP-2025-00951,46,Male,Maharashtra,Primary,Unemployed,3151.9990000000003,1,75.7,9.0,2024-01-10
+RSP-2025-00952,44,Other,Gujarat,Primary,Self-Employed,13244.86,6,57.5015,5.0,2024-05-17
+RSP-2025-00953,43,Female,Karnataka,Graduate,Self-Employed,14177.33,3,32.5447,7.0,2024-05-17
+RSP-2025-00954,63,Male,West Bengal,Higher Secondary,Unemployed,1432.364,7,95.8177,7.0,2024-06-04
+RSP-2025-00955,59,Female,Gujarat,Primary,Employed,28907.26,6,25.0479,5.0,2024-05-31
+RSP-2025-00956,44,Male,Gujarat,Secondary,Employed,17906.07,4,22.3935,2.0,2024-01-19
+RSP-2025-00957,30,Female,Maharashtra,Graduate,Self-Employed,37091.44,2,91.8116,5.0,2024-03-08
+RSP-2025-00958,54,Female,Maharashtra,Primary,Employed,4206.95,3,34.4118,7.0,2024-02-11
+RSP-2025-00959,33,Male,Gujarat,Postgraduate,Self-Employed,15414.23,5,45.6255,7.0,2024-05-19
+RSP-2025-00960,32,Female,Uttar Pradesh,None,Employed,12939.82,5,64.9135,4.0,2024-05-25
+RSP-2025-00961,15,Female,Gujarat,Secondary,Self-Employed,22774.09,4,61.9507,1.0,2024-05-30
+RSP-2025-00962,61,Female,Karnataka,None,Self-Employed,18963.45,5,91.6323,6.0,2024-03-24
+RSP-2025-00963,80,Male,Gujarat,None,Employed,45188.52,1,81.8829,3.0,2024-05-13
+RSP-2025-00964,52,Male,Tamil Nadu,Primary,Employed,8033.95,8,84.2834,5.0,2024-02-22
+RSP-2025-00965,65,Male,Bihar,Secondary,Employed,27710.58,8,92.2592,4.0,2024-04-07
+RSP-2025-00966,77,Female,Tamil Nadu,,Self-Employed,38673.84,3,44.0042,2.0,2024-02-11
+RSP-2025-00967,18,Male,Tamil Nadu,Higher Secondary,Student,0.0,6,47.4072,7.0,2024-01-30
+RSP-2025-00968,15,Female,Uttar Pradesh,None,Employed,19670.04,5,60.6507,5.0,2024-01-09
+RSP-2025-00969,22,Female,Uttar Pradesh,Secondary,Self-Employed,33219.69,4,45.7044,7.0,2024-06-18
+RSP-2025-00970,43,Male,Gujarat,Higher Secondary,Employed,8328.92,7,123.2754,9.0,2024-02-03
+RSP-2025-00971,69,Female,Tamil Nadu,Graduate,Unemployed,0.0,5,103.7089,4.0,2024-06-16
+RSP-2025-00972,17,Male,Uttar Pradesh,Higher Secondary,Retired,46588.24,3,29.353,5.0,2024-03-28
+RSP-2025-00973,46,Female,Maharashtra,Postgraduate,Employed,26806.13,8,11.1405,9.0,2024-05-24
+RSP-2025-00974,24,Male,Gujarat,Primary,Unemployed,0.0,4,15.3987,,2024-06-05
+RSP-2025-00975,48,Male,Karnataka,Graduate,Employed,11018.03,7,38.4453,4.0,2024-02-19
+RSP-2025-00976,69,Male,Bihar,Graduate,Employed,37719.65,8,23.5864,5.0,2024-03-16
+RSP-2025-00977,46,Male,West Bengal,Postgraduate,Employed,90647.32,6,71.5672,5.0,2024-06-25
+RSP-2025-00978,64,Female,Gujarat,Higher Secondary,Employed,35341.34,3,108.7405,8.0,2024-02-15
+RSP-2025-00979,21,Female,West Bengal,Primary,Self-Employed,32201.81,1,94.8579,4.0,2024-02-15
+RSP-2025-00980,22,Female,Tamil Nadu,Higher Secondary,Employed,27053.22,4,35.1872,4.0,2024-05-05
+RSP-2025-00981,79,Male,Bihar,Secondary,Unemployed,0.0,2,56.2198,7.0,2024-01-17
+RSP-2025-00982,71,Male,West Bengal,Higher Secondary,Employed,64933.72,5,68.6539,5.0,2024-03-06
+RSP-2025-00983,81,Male,Tamil Nadu,Graduate,Employed,18086.89,5,103.2686,6.0,2024-04-13
+RSP-2025-00984,73,Female,Maharashtra,Primary,Self-Employed,37343.5,2,106.5794,6.0,2024-01-05
+RSP-2025-00985,68,Female,West Bengal,Higher Secondary,Retired,9740.3,3,114.6627,6.0,2024-05-02
+RSP-2025-00986,81,Male,Bihar,Primary,Employed,12498.34,7,68.8086,10.0,2024-05-04
+RSP-2025-00987,65,Male,Gujarat,Primary,Student,0.0,3,89.9945,5.0,2024-04-21
+RSP-2025-00988,22,Female,Tamil Nadu,Secondary,Unemployed,0.0,4,23.3011,5.0,2024-01-16
+RSP-2025-00989,48,Female,Gujarat,Secondary,Unemployed,6919.121000000001,4,75.2256,9.0,2024-03-21
+RSP-2025-00990,49,Female,Bihar,Graduate,Unemployed,0.0,2,38.9752,8.0,2024-03-31
+RSP-2025-00991,46,Female,Uttar Pradesh,Postgraduate,Employed,8125.53,5,59.9316,4.0,2024-05-14
+RSP-2025-00992,60,Male,Tamil Nadu,Primary,Employed,48042.63,3,83.0988,7.0,2024-05-15
+RSP-2025-00993,30,Male,West Bengal,Postgraduate,Self-Employed,18335.05,6,39.9249,8.0,2024-03-12
+RSP-2025-00994,82,Female,Tamil Nadu,Graduate,Employed,42367.96,4,16.4752,9.0,2024-04-05
+RSP-2025-00995,51,Female,Gujarat,Primary,Retired,27347.68,7,11.6718,,2024-04-20
+RSP-2025-00996,68,Male,Maharashtra,Primary,Employed,9867.22,1,13.0373,3.0,2024-03-22
+RSP-2025-00997,28,Female,Tamil Nadu,None,Employed,29935.24,5,11.456,4.0,2024-02-07
+RSP-2025-00998,69,Female,West Bengal,Postgraduate,Self-Employed,112144.67,3,23.1357,10.0,2024-02-23
+RSP-2025-00999,62,Female,Uttar Pradesh,Higher Secondary,Employed,37065.47,6,37.9215,6.0,2024-03-16
+RSP-2025-01000,21,Female,Karnataka,Secondary,Unemployed,0.0,5,35.8299,10.0,2024-01-15
+RSP-2025-00011,52,Female,Maharashtra,None,Retired,23045.56,5,93.2186,4.0,2024-03-05
+RSP-2025-00012,16,Male,Karnataka,Higher Secondary,Unemployed,0.0,7,20.2375,9.0,2024-05-10
+RSP-2025-00013,78,Male,Karnataka,Higher Secondary,Employed,14943.04,2,35.689,5.0,2024-06-04

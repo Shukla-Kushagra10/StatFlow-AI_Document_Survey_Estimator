@@ -1,0 +1,1 @@
+from app.utils.synthetic_generator import generate_synthetic_survey

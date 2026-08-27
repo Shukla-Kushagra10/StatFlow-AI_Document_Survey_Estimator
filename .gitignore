@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+backend/venv/
+
+# Environment and local configuration
+.env
+.env.*
+!.env.example
+
+# Local databases and runtime files
+*.db
+*.sqlite
+*.sqlite3
+*.log
+
+# Frontend dependencies and build output
+node_modules/
+dist/
+build/
+.vite/
+
+# Generated and local data
+# Keep directory placeholders, but do not commit runtime uploads or processed output.
+data/uploads/*
+!data/uploads/.gitkeep
+!data/uploads/18augpandas.csv
+!data/uploads/synthetic_survey_sample.csv
+data/processed/*
+!data/processed/.gitkeep
+reports/*
+!reports/.gitkeep
+
+# Editors and operating systems
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.idea/
+.DS_Store
+Thumbs.db
