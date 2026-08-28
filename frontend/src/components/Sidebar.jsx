@@ -50,10 +50,6 @@ export default function Sidebar({ currentTab, setCurrentTab }) {
         })}
       </nav>
       
-      <div className="p-4 border-t border-slate-800/80 text-xs text-slate-400">
-        <p className="font-semibold text-slate-300">MoSPI Statathon 2025</p>
-        <p className="text-[11px] text-slate-400 mt-0.5">Problem Statement ID: PS-4</p>
-      </div>
     </aside>
   );
 }
